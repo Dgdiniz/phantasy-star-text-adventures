@@ -1,0 +1,1 @@
+Here is where the code puts the temporary binaries for pointers and dialogs.

@@ -1,0 +1,3212 @@
+{
+    "Dialogs": [
+        {
+            "index": 0,
+            "Original_Pointer": "0x30010",
+            "Original_Dialog": "How to Play{00}",
+            "Translated_Dialog": "How to Play{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 1,
+            "Original_Pointer": "0x3001c",
+            "Original_Dialog": "Move Look Take Use Drop{00}",
+            "Translated_Dialog": "Move Look Take Use Drop{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 2,
+            "Original_Pointer": "0x30034",
+            "Original_Dialog": "{F7}{00}",
+            "Translated_Dialog": "{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 3,
+            "Original_Pointer": "0x30036",
+            "Original_Dialog": "{00}",
+            "Translated_Dialog": "{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 4,
+            "Original_Pointer": "0x30038",
+            "Original_Dialog": " {00}",
+            "Translated_Dialog": " {00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 5,
+            "Original_Pointer": "0x3003a",
+            "Original_Dialog": "{EE}{00}",
+            "Translated_Dialog": "{EE}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 6,
+            "Original_Pointer": "0x3003c",
+            "Original_Dialog": "{EF}{00}",
+            "Translated_Dialog": "{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 7,
+            "Original_Pointer": "0x3003e",
+            "Original_Dialog": ":{EF}{00}",
+            "Translated_Dialog": ":{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 8,
+            "Original_Pointer": "0x30041",
+            "Original_Dialog": "{EE}, {EF}{00}",
+            "Translated_Dialog": "{EE}, {EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 9,
+            "Original_Pointer": "0x30046",
+            "Original_Dialog": " can be seen.{00}",
+            "Translated_Dialog": " can be seen.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 10,
+            "Original_Pointer": "0x30054",
+            "Original_Dialog": "{EF} and {EE}{00}",
+            "Translated_Dialog": "{EF} and {EE}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 11,
+            "Original_Pointer": "0x3005c",
+            "Original_Dialog": " hit {00}",
+            "Translated_Dialog": " hit {00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 12,
+            "Original_Pointer": "0x30062",
+            "Original_Dialog": "{EE}It is too dark to see anything.{EF}{00}",
+            "Translated_Dialog": "{EE}It is too dark to see anything.{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 13,
+            "Original_Pointer": "0x30084",
+            "Original_Dialog": "{EE}It is too dark to use anything.{EF}{00}",
+            "Translated_Dialog": "{EE}It is too dark to use anything.{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 14,
+            "Original_Pointer": "0x300a6",
+            "Original_Dialog": "Look at...{00}",
+            "Translated_Dialog": "Look at...{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 15,
+            "Original_Pointer": "0x300b1",
+            "Original_Dialog": "Local Area{00}",
+            "Translated_Dialog": "Local Area{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 16,
+            "Original_Pointer": "0x300bc",
+            "Original_Dialog": "Take what?{00}",
+            "Translated_Dialog": "Take what?{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 17,
+            "Original_Pointer": "0x300c7",
+            "Original_Dialog": "{EE}There is nothing here that can be taken.{EF}{00}",
+            "Translated_Dialog": "{EE}There is nothing here that can be taken.{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 18,
+            "Original_Pointer": "0x300f2",
+            "Original_Dialog": "{EE}Amia can't carry anymore.{EF}{00}",
+            "Translated_Dialog": "{EE}Amia can't carry anymore.{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 19,
+            "Original_Pointer": "0x3010e",
+            "Original_Dialog": "Amia{00}",
+            "Translated_Dialog": "Amia{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 20,
+            "Original_Pointer": "0x30113",
+            "Original_Dialog": "{EE}{00}",
+            "Translated_Dialog": "{EE}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 21,
+            "Original_Pointer": "0x30115",
+            "Original_Dialog": "{EF} was taken. {00}",
+            "Translated_Dialog": "{EF} was taken. {00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 22,
+            "Original_Pointer": "0x30123",
+            "Original_Dialog": "Use what?{00}",
+            "Translated_Dialog": "Use what?{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 23,
+            "Original_Pointer": "0x3012d",
+            "Original_Dialog": "...on what?{00}",
+            "Translated_Dialog": "...on what?{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 24,
+            "Original_Pointer": "0x30139",
+            "Original_Dialog": "{EE}There is nothing to use it on.{EF}{00}",
+            "Translated_Dialog": "{EE}There is nothing to use it on.{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 25,
+            "Original_Pointer": "0x3015a",
+            "Original_Dialog": "{EF} were used, but nothing happened.{00}",
+            "Translated_Dialog": "{EF} were used, but nothing happened.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 26,
+            "Original_Pointer": "0x3017d",
+            "Original_Dialog": "It would be pointless to do something like that.{00}",
+            "Translated_Dialog": "It would be pointless to do something like that.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 27,
+            "Original_Pointer": "0x301ae",
+            "Original_Dialog": "Hmph. I knew that wouldn't work.{00}",
+            "Translated_Dialog": "Hmph. I knew that wouldn't work.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 28,
+            "Original_Pointer": "0x301cf",
+            "Original_Dialog": "I {7C}can't do that!{00}",
+            "Translated_Dialog": "I {7C}can't do that!{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 29,
+            "Original_Pointer": "0x301e1",
+            "Original_Dialog": "{EF} were used, but he refused to accept it.{00}",
+            "Translated_Dialog": "{EF} were used, but he refused to accept it.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 30,
+            "Original_Pointer": "0x3020b",
+            "Original_Dialog": "That's probably not the right way to use it.{00}",
+            "Translated_Dialog": "That's probably not the right way to use it.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 31,
+            "Original_Pointer": "0x30238",
+            "Original_Dialog": "{EF} were used, but it had no effect.{00}",
+            "Translated_Dialog": "{EF} were used, but it had no effect.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 32,
+            "Original_Pointer": "0x3025b",
+            "Original_Dialog": "This isn't the time for that.{00}",
+            "Translated_Dialog": "This isn't the time for that.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 33,
+            "Original_Pointer": "0x30279",
+            "Original_Dialog": "\"I'm searching for this man. If you see a lanky   Motavian anywhere, let me know.\"{00}",
+            "Translated_Dialog": "\"I'm searching for this man. If you see a lanky   Motavian anywhere, let me know.\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 34,
+            "Original_Pointer": "0x302cc",
+            "Original_Dialog": "This ruins my appetite.{00}",
+            "Translated_Dialog": "This ruins my appetite.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 35,
+            "Original_Pointer": "0x302e4",
+            "Original_Dialog": "It doesn't need to be used as long as it is worn.{00}",
+            "Translated_Dialog": "It doesn't need to be used as long as it is worn.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 36,
+            "Original_Pointer": "0x30316",
+            "Original_Dialog": "Drop what?{00}",
+            "Translated_Dialog": "Drop what?{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 37,
+            "Original_Pointer": "0x30321",
+            "Original_Dialog": "{EE}Amia has no possessions.{EF}{00}",
+            "Translated_Dialog": "{EE}Amia has no possessions.{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 38,
+            "Original_Pointer": "0x3033c",
+            "Original_Dialog": "{EE}Nothing more can be dropped here.{EF}{00}",
+            "Translated_Dialog": "{EE}Nothing more can be dropped here.{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 39,
+            "Original_Pointer": "0x30360",
+            "Original_Dialog": "{EF} was dropped.{00}",
+            "Translated_Dialog": "{EF} was dropped.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 40,
+            "Original_Pointer": "0x3036f",
+            "Original_Dialog": ".{EE} {00}",
+            "Translated_Dialog": ".{EE} {00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 41,
+            "Original_Pointer": "0x30373",
+            "Original_Dialog": "{EF} points of damage.{00}",
+            "Translated_Dialog": "{EF} points of damage.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 42,
+            "Original_Pointer": "0x30387",
+            "Original_Dialog": "Amia died...{F7}{00}",
+            "Translated_Dialog": "Amia died...{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 43,
+            "Original_Pointer": "0x30395",
+            "Original_Dialog": "'s attack missed.{00}",
+            "Translated_Dialog": "'s attack missed.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 44,
+            "Original_Pointer": "0x303a7",
+            "Original_Dialog": "' attack missed.{00}",
+            "Translated_Dialog": "' attack missed.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 45,
+            "Original_Pointer": "0x303b8",
+            "Original_Dialog": "{EE}Darkness:{EF} It is pitch black. Amia is likely to be eaten by a biomonster.{00}",
+            "Translated_Dialog": "{EE}Darkness:{EF} It is pitch black. Amia is likely to be eaten by a biomonster.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 46,
+            "Original_Pointer": "0x30403",
+            "Original_Dialog": "{EE}Time:{EF}            {7C}{7C}1282 A.W., Autumn {EE}Place:{EF}          {7C}{7C}Bee Rock, on the planet Motavia {EE}Character:{EF} {7C}Amia{F7}Bee Rock:  a village at the ends of the earth.{F7}Amia:  a young, beautiful counter-hunter.{F7}Being an enthusiastic and gifted hunter, Amia had already claimed fifteen bounties by the time she arrived in this remote region.{F7}An Agents commander had been assigned to Bee Rock, and it was open season on a group of Motavian thieves holed up in town.{F7}They were accused of illegally accessing Mother Brain in order to disrupt the dome farm, which supplies food to the entire region.{F7}Hacking is among the most serious of crimes, and the commensurate bounties on such game are quite high.{F7}Amia parked her dune buggy by a hill near the village. Her first task was to get in touch with an Agents liaison...{00}",
+            "Translated_Dialog": "{EE}Time:{EF}            {7C}{7C}1282 A.W., Autumn {EE}Place:{EF}          {7C}{7C}Bee Rock, on the planet Motavia {EE}Character:{EF} {7C}Amia{F7}Bee Rock:  um vilarejo nos confins do mundo.{F7}Amia:  a young, beautiful counter-hunter.{F7}Being an enthusiastic and gifted hunter, Amia had already claimed fifteen bounties by the time she arrived in this remote region.{F7}An Agents commander had been assigned to Bee Rock, and it was open season on a group of Motavian thieves holed up in town.{F7}They were accused of illegally accessing Mother Brain in order to disrupt the dome farm, which supplies food to the entire region.{F7}Hacking is among the most serious of crimes, and the commensurate bounties on such game are quite high.{F7}Amia parked her dune buggy by a hill near the village. Her first task was to get in touch with an Agents liaison...{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 47,
+            "Original_Pointer": "0x30726",
+            "Original_Dialog": "Jet Buggy{00}",
+            "Translated_Dialog": "Jet Buggy{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 48,
+            "Original_Pointer": "0x30730",
+            "Original_Dialog": "In the driver's seat of Amia's beloved all-terrain vehicle.{F7}Amia feels a sense of calmness as she sits here in front of the {EE}control panel{EF}. There is a {EE}glove compartment{EF} beside the steering wheel.{00}",
+            "Translated_Dialog": "In the driver's seat of Amia's beloved all-terrain vehicle.{F7}Amia feels a sense of calmness as she sits here in front of the {EE}control panel{EF}. There is a {EE}glove compartment{EF} beside the steering wheel.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 49,
+            "Original_Pointer": "0x307f7",
+            "Original_Dialog": "Hill{00}",
+            "Translated_Dialog": "Hill{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 50,
+            "Original_Pointer": "0x307fc",
+            "Original_Dialog": "The hill affords a view of {EE}Bee Rock Village{EF} and the nearby {EE}dome farm{EF}.{F7}Beyond, {7C}a {7C}{EE}mountainous region{EF} {7C}stretches {7C}out as far as the {7C}eye can see.{F7}Passing by the dome farm, the eastbound road proceeds toward the village. Amia's jet buggy is parked in a thicket beside the road.{00}",
+            "Translated_Dialog": "The hill affords a view of {EE}Bee Rock Village{EF} and the nearby {EE}dome farm{EF}.{F7}Beyond, {7C}a {7C}{EE}mountainous region{EF} {7C}stretches {7C}out as far as the {7C}eye can see.{F7}Passing by the dome farm, the eastbound road proceeds toward the village. Amia's jet buggy is parked in a thicket beside the road.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 51,
+            "Original_Pointer": "0x30916",
+            "Original_Dialog": "Dome Farm Entrance{00}",
+            "Translated_Dialog": "Dome Farm Entrance{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 52,
+            "Original_Pointer": "0x30929",
+            "Original_Dialog": "The road continues east as far as the village and west to a small hill.{F7}An endless expanse of inaccessible {EE}mountains{EF} can be seen to the north. The {EE}dome farm{EF} lies to the south.{00}",
+            "Translated_Dialog": "The road continues east as far as the village and west to a small hill.{F7}An endless expanse of inaccessible {EE}mountains{EF} can be seen to the north. The {EE}dome farm{EF} lies to the south.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 53,
+            "Original_Pointer": "0x309dd",
+            "Original_Dialog": "Dome Farm{00}",
+            "Translated_Dialog": "Dome Farm{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 54,
+            "Original_Pointer": "0x309e7",
+            "Original_Dialog": "There seems to be something wrong with the computer system...{F7}The dome is full of vegetation being grown for food, the majority of which has already started to wither.{F7}There is a {EE}storehouse{EF} on the south side. The {EE}dome control room{EF} is to the west.{00}",
+            "Translated_Dialog": "There seems to be something wrong with the computer system...{F7}The dome is full of vegetation being grown for food, the majority of which has already started to wither.{F7}There is a {EE}storehouse{EF} on the south side. The {EE}dome control room{EF} is to the west.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 55,
+            "Original_Pointer": "0x30ae2",
+            "Original_Dialog": "Evening has arrived, and the dome has become considerably darker.{F7}Shrouded in a cloak, a Motavian emerges from his hiding place behind a planter.{F7}Seven or {7C}eight more appear and they all enter the {EE}storehouse{EF}... except for one, who heads to the {EE}control room{EF}. He is high of stature.{F7}It is quite unusual to see a tall Motavian. There's no doubt about it:  this is Hack, the one with a bounty on his head.{00}",
+            "Translated_Dialog": "Evening has arrived, and the dome has become considerably darker.{F7}Shrouded in a cloak, a Motavian emerges from his hiding place behind a planter.{F7}Seven or {7C}eight more appear and they all enter the {EE}storehouse{EF}... except for one, who heads to the {EE}control room{EF}. He is high of stature.{F7}It is quite unusual to see a tall Motavian. There's no doubt about it:  this is Hack, the one with a bounty on his head.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 56,
+            "Original_Pointer": "0x30c78",
+            "Original_Dialog": "The noise of a crowd emanates from the {EE}storehouse{EF} to the south.{F7}Faint sounds can also be heard coming from the {EE}dome control room{EF} to the west.{00}",
+            "Translated_Dialog": "The noise of a crowd emanates from the {EE}storehouse{EF} to the south.{F7}Faint sounds can also be heard coming from the {EE}dome control room{EF} to the west.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 57,
+            "Original_Pointer": "0x30d0a",
+            "Original_Dialog": "The dome farm is devoid of people once more.{F7}The {EE}dome control room{EF} is to the west, the {EE}storehouse{EF} is to the south.{00}",
+            "Translated_Dialog": "The dome farm is devoid of people once more.{F7}The {EE}dome control room{EF} is to the west, the {EE}storehouse{EF} is to the south.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 58,
+            "Original_Pointer": "0x30d81",
+            "Original_Dialog": "Storehouse{00}",
+            "Translated_Dialog": "Storehouse{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 59,
+            "Original_Pointer": "0x30d8c",
+            "Original_Dialog": "Harvested {EE}crops{EF}, fertilizer, and the like are kept here.{00}",
+            "Translated_Dialog": "Harvested {EE}crops{EF}, fertilizer, and the like are kept here.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 60,
+            "Original_Pointer": "0x30dc7",
+            "Original_Dialog": "Dome Control Room{00}",
+            "Translated_Dialog": "Dome Control Room{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 61,
+            "Original_Pointer": "0x30dd9",
+            "Original_Dialog": "Numerous monitors line the walls.{F7}The entire dome is managed by this computer {7C}system, {7C}which {7C}is {7C}in {7C}turn controlled directly by Mother Brain.{00}",
+            "Translated_Dialog": "Numerous monitors line the walls.{F7}The entire dome is managed by this computer {7C}system, {7C}which {7C}is {7C}in {7C}turn controlled directly by Mother Brain.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 62,
+            "Original_Pointer": "0x30e6a",
+            "Original_Dialog": "Hack is hunched over a control panel, fervently engaged.{F7}Amia crept up behind him. All she had to do in order to finish this job was capture their leader and turn him over to the Agents...{F7}Yet he isn't one to get caught so easily, Amia thought to herself.{F7}{EE}Hack{EF} suddenly turned around!{00}",
+            "Translated_Dialog": "Hack is hunched over a control panel, fervently engaged.{F7}Amia crept up behind him. All she had to do in order to finish this job was capture their leader and turn him over to the Agents...{F7}Yet he isn't one to get caught so easily, Amia thought to herself.{F7}{EE}Hack{EF} suddenly turned around!{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 63,
+            "Original_Pointer": "0x30f89",
+            "Original_Dialog": "{EE}Hack{EF} is looking this way.{00}",
+            "Translated_Dialog": "{EE}Hack{EF} is looking this way.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 64,
+            "Original_Pointer": "0x30fa5",
+            "Original_Dialog": "Rows of monitors fill the room.{F7}Apparently Hack was infiltrating Mother Brain's network from this {EE}computer{EF}.{00}",
+            "Translated_Dialog": "Rows of monitors fill the room.{F7}Apparently Hack was infiltrating Mother Brain's network from this {EE}computer{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 65,
+            "Original_Pointer": "0x31013",
+            "Original_Dialog": "Villager Residence{00}",
+            "Translated_Dialog": "Villager Residence{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 66,
+            "Original_Pointer": "0x31026",
+            "Original_Dialog": "Within the domicile a {EE}man{EF} is having a stiff drink, alone. He eyes Amia suspiciously.{00}",
+            "Translated_Dialog": "Within the domicile a {EE}man{EF} is having a stiff drink, alone. He eyes Amia suspiciously.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 67,
+            "Original_Pointer": "0x3107d",
+            "Original_Dialog": "The {EE}man{EF} is still tossing back drinks.{00}",
+            "Translated_Dialog": "The {EE}man{EF} is still tossing back drinks.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 68,
+            "Original_Pointer": "0x310a5",
+            "Original_Dialog": "Bee Rock Village{00}",
+            "Translated_Dialog": "Bee Rock Village{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 69,
+            "Original_Pointer": "0x310b6",
+            "Original_Dialog": "{01}A gloomy township {7C}-{7C} every home is firmly locked. {01}Only a residence to the south has its door open.{F7}There is a plaza to the north.{00}",
+            "Translated_Dialog": "{01}A gloomy township {7C}-{7C} every home is firmly locked. {01}Only a residence to the south has its door open.{F7}There is a plaza to the north.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 70,
+            "Original_Pointer": "0x3113b",
+            "Original_Dialog": "Plaza{00}",
+            "Translated_Dialog": "Plaza{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 71,
+            "Original_Pointer": "0x31141",
+            "Original_Dialog": "Several {EE}villagers{EF} are present.{00}",
+            "Translated_Dialog": "Several {EE}villagers{EF} are present.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 72,
+            "Original_Pointer": "0x31162",
+            "Original_Dialog": "A {EE}man{EF} and a {EE}woman{EF} are looking this way.{00}",
+            "Translated_Dialog": "A {EE}man{EF} and a {EE}woman{EF} are looking this way.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 73,
+            "Original_Pointer": "0x3118e",
+            "Original_Dialog": "Mountain Base{00}",
+            "Translated_Dialog": "Mountain Base{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 74,
+            "Original_Pointer": "0x3119c",
+            "Original_Dialog": "Steep rock soars precipitously toward the sky.{F7}Anyone not an expert at climbing mountains will be unlikely to successfully challenge this one.{00}",
+            "Translated_Dialog": "Steep rock soars precipitously toward the sky.{F7}Anyone not an expert at climbing mountains will be unlikely to successfully challenge this one.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 75,
+            "Original_Pointer": "0x3122b",
+            "Original_Dialog": "Steep rock soars precipitously toward the sky.{F7}There are {EE}Motavian footprints{EF} on the ground!{00}",
+            "Translated_Dialog": "Steep rock soars precipitously toward the sky.{F7}There are {EE}Motavian footprints{EF} on the ground!{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 76,
+            "Original_Pointer": "0x31289",
+            "Original_Dialog": "Crossroads{00}",
+            "Translated_Dialog": "Crossroads{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 77,
+            "Original_Pointer": "0x31294",
+            "Original_Dialog": "Winding through the rocky terrain, the southerly path diverges east and west at this point.{00}",
+            "Translated_Dialog": "Winding through the rocky terrain, the southerly path diverges east and west at this point.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 78,
+            "Original_Pointer": "0x312f0",
+            "Original_Dialog": " The movement of a {EE}black shadow{EF} to the east catches Amia's eye.{00}",
+            "Translated_Dialog": " The movement of a {EE}black shadow{EF} to the east catches Amia's eye.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 79,
+            "Original_Pointer": "0x31332",
+            "Original_Dialog": "Mountainside{00}",
+            "Translated_Dialog": "Mountainside{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 80,
+            "Original_Pointer": "0x3133f",
+            "Original_Dialog": "These mountains form a habitat for several breeds of flying biomonsters.{00}",
+            "Translated_Dialog": "These mountains form a habitat for several breeds of flying biomonsters.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 81,
+            "Original_Pointer": "0x31388",
+            "Original_Dialog": "The path is littered with rocks, making it impossible to advance any further.{00}",
+            "Translated_Dialog": "The path is littered with rocks, making it impossible to advance any further.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 82,
+            "Original_Pointer": "0x313d6",
+            "Original_Dialog": " A {EE}mushroom{EF} has sprung up from the earth.{00}",
+            "Translated_Dialog": " A {EE}mushroom{EF} has sprung up from the earth.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 83,
+            "Original_Pointer": "0x31402",
+            "Original_Dialog": "Cliff{00}",
+            "Translated_Dialog": "Cliff{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 84,
+            "Original_Pointer": "0x31408",
+            "Original_Dialog": "The east-west path ends abruptly at a cliff overlooking a deep valley.{F7}A road follows the cliff, ascending to the north and descending to the south.{00}",
+            "Translated_Dialog": "The east-west path ends abruptly at a cliff overlooking a deep valley.{F7}A road follows the cliff, ascending to the north and descending to the south.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 85,
+            "Original_Pointer": "0x3149d",
+            "Original_Dialog": "Dead End{00}",
+            "Translated_Dialog": "Dead End{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 86,
+            "Original_Pointer": "0x314a6",
+            "Original_Dialog": "The road begins to narrow, finally disappearing altogether at the edge of a precipice.{00}",
+            "Translated_Dialog": "The road begins to narrow, finally disappearing altogether at the edge of a precipice.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 87,
+            "Original_Pointer": "0x314fd",
+            "Original_Dialog": "Boulders are scattered about, many with {EE}moss{EF} growing on them.{F7}Walking along the side of the mountain seems doable to the north and east. The road heads back south.{00}",
+            "Translated_Dialog": "Boulders are scattered about, many with {EE}moss{EF} growing on them.{F7}Walking along the side of the mountain seems doable to the north and east. The road heads back south.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 88,
+            "Original_Pointer": "0x315a3",
+            "Original_Dialog": "This part of the ridge is replete with large rocks. Passage is available east, west, and north.{00}",
+            "Translated_Dialog": "This part of the ridge is replete with large rocks. Passage is available east, west, and north.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 89,
+            "Original_Pointer": "0x31603",
+            "Original_Dialog": " A screeching sound is audible to the north.{00}",
+            "Translated_Dialog": " A screeching sound is audible to the north.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 90,
+            "Original_Pointer": "0x31630",
+            "Original_Dialog": "Boulders lie everywhere. The mountain yields makeshift paths both to the east and south.{00}",
+            "Translated_Dialog": "Boulders lie everywhere. The mountain yields makeshift paths both to the east and south.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 91,
+            "Original_Pointer": "0x31689",
+            "Original_Dialog": " The cry of an animal{7C}{7C}can{7C}{7C}be{7C}{7C}heard from the east.{00}",
+            "Translated_Dialog": " The cry of an animal{7C}{7C}can{7C}{7C}be{7C}{7C}heard from the east.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 92,
+            "Original_Pointer": "0x316be",
+            "Original_Dialog": "Within a stone crevice lays a {EE}nest{EF} constructed by a Motavian crow.{00}",
+            "Translated_Dialog": "Within a stone crevice lays a {EE}nest{EF} constructed by a Motavian crow.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 93,
+            "Original_Pointer": "0x31703",
+            "Original_Dialog": "The seemingly impenetrable stone gives way to the south and west.{00}",
+            "Translated_Dialog": "The seemingly impenetrable stone gives way to the south and west.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 94,
+            "Original_Pointer": "0x31745",
+            "Original_Dialog": "Stone Corridor{00}",
+            "Translated_Dialog": "Stone Corridor{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 95,
+            "Original_Pointer": "0x31754",
+            "Original_Dialog": "Beset on either side by steep {EE}walls of rock{EF}, this {01}'corridor'{7C}{7C}was hewn{7C}{7C}from{7C}{7C}the{7C}{7C}very mountain itself.{00}",
+            "Translated_Dialog": "Beset on either side by steep {EE}walls of rock{EF}, this {01}'corridor'{7C}{7C}was hewn{7C}{7C}from{7C}{7C}the{7C}{7C}very mountain itself.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 96,
+            "Original_Pointer": "0x317c0",
+            "Original_Dialog": " A large, metallic {EE}object{EF} is lying in the road.{00}",
+            "Translated_Dialog": " A large, metallic {EE}object{EF} is lying in the road.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 97,
+            "Original_Pointer": "0x317f2",
+            "Original_Dialog": "Cave Mouth{00}",
+            "Translated_Dialog": "Cave Mouth{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 98,
+            "Original_Pointer": "0x317fd",
+            "Original_Dialog": "The trap, left in the corridor to catch monsters, slammed shut. Amia sustained a leg injury.{F7}{00}",
+            "Translated_Dialog": "The trap, left in the corridor to catch monsters, slammed shut. Amia sustained a leg injury.{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 99,
+            "Original_Pointer": "0x3185b",
+            "Original_Dialog": "To the south, a cavity in the wall of stone becomes the mouth of a cave.{F7}The rocky corridor returns to the west.{00}",
+            "Translated_Dialog": "To the south, a cavity in the wall of stone becomes the mouth of a cave.{F7}The rocky corridor returns to the west.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 100,
+            "Original_Pointer": "0x318cc",
+            "Original_Dialog": "Tunnel{00}",
+            "Translated_Dialog": "Tunnel{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 101,
+            "Original_Pointer": "0x318d3",
+            "Original_Dialog": "This tunnel leads eastward through the cave. The exit can be reached to the north.{F7}The cavern wall to the west is interrupted by a wooden door, itself perturbed by a {EE}knothole{EF} marring its surface.{00}",
+            "Translated_Dialog": "This tunnel leads eastward through the cave. The exit can be reached to the north.{F7}The cavern wall to the west is interrupted by a wooden door, itself perturbed by a {EE}knothole{EF} marring its surface.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 102,
+            "Original_Pointer": "0x31999",
+            "Original_Dialog": "Motavian Dwelling{00}",
+            "Translated_Dialog": "Motavian Dwelling{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 103,
+            "Original_Pointer": "0x319ab",
+            "Original_Dialog": " There are many Motavians in here.{F7}Amia was immediately surrounded. Before she knew it, everything went dark and she felt her body being lifted into the air.{F7}\"Throw her out! Toss her!\" the Motavians chanted repeatedly, in unison.{F7}Amia had been stuffed into a body bag and dumped somewhere...{F7}{EE}Mountain Base:{EF}{00}",
+            "Translated_Dialog": " There are many Motavians in here.{F7}Amia was immediately surrounded. Before she knew it, everything went dark and she felt her body being lifted into the air.{F7}\"Throw her out! Toss her!\" the Motavians chanted repeatedly, in unison.{F7}Amia had been stuffed into a body bag and dumped somewhere...{F7}{EE}Mountain Base:{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 104,
+            "Original_Pointer": "0x31ae0",
+            "Original_Dialog": "Tunnel{00}",
+            "Translated_Dialog": "Tunnel{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 105,
+            "Original_Pointer": "0x31ae7",
+            "Original_Dialog": "This is the end of the tunnel, which returns to the west. Doors lie in every other direction.{F7}A pleasant aroma is coming from the north.{00}",
+            "Translated_Dialog": "This is the end of the tunnel, which returns to the west. Doors lie in every other direction.{F7}A pleasant aroma is coming from the north.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 106,
+            "Original_Pointer": "0x31b70",
+            "Original_Dialog": "Dining Room{00}",
+            "Translated_Dialog": "Dining Room{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 107,
+            "Original_Pointer": "0x31b7c",
+            "Original_Dialog": "Chairs are arranged at regular intervals around a {EE}table{EF}. No one is present.{00}",
+            "Translated_Dialog": "Chairs are arranged at regular intervals around a {EE}table{EF}. No one is present.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 108,
+            "Original_Pointer": "0x31bca",
+            "Original_Dialog": "Storehouse{00}",
+            "Translated_Dialog": "Storehouse{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 109,
+            "Original_Pointer": "0x31bd5",
+            "Original_Dialog": "The{7C}{7C}room is overflowing{7C}{7C}with{7C}{7C}all manner{7C}of {EE}boxes{EF}, which have been strewn about haphazardly.{00}",
+            "Translated_Dialog": "The{7C}{7C}room is overflowing{7C}{7C}with{7C}{7C}all manner{7C}of {EE}boxes{EF}, which have been strewn about haphazardly.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 110,
+            "Original_Pointer": "0x31c36",
+            "Original_Dialog": "Hack's Room{00}",
+            "Translated_Dialog": "Hack's Room{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 111,
+            "Original_Pointer": "0x31c42",
+            "Original_Dialog": " It's {EE}Hack{EF}!{F7}He was not startled to see Amia, letting out a bold laugh instead.{F7}There is a door{7C}{7C}on the south side of the room, but the Motavian ringleader stands in the way.{00}",
+            "Translated_Dialog": " It's {EE}Hack{EF}!{F7}He was not startled to see Amia, letting out a bold laugh instead.{F7}There is a door{7C}{7C}on the south side of the room, but the Motavian ringleader stands in the way.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 112,
+            "Original_Pointer": "0x31cf2",
+            "Original_Dialog": "A drab room. The only notable features are the two doors to the north and south.{00}",
+            "Translated_Dialog": "A drab room. The only notable features are the two doors to the north and south.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 113,
+            "Original_Pointer": "0x31d43",
+            "Original_Dialog": "Cave Exterior{00}",
+            "Translated_Dialog": "Cave Exterior{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 114,
+            "Original_Pointer": "0x31d51",
+            "Original_Dialog": "The terrain outside the cavern is formed from a slope of scraggy rock.{F7}Affixed to the side of the mountain to the north, a wooden door marks an entrance to the cave. Descent seems plausible to the west and south.{00}",
+            "Translated_Dialog": "The terrain outside the cavern is formed from a slope of scraggy rock.{F7}Affixed to the side of the mountain to the north, a wooden door marks an entrance to the cave. Descent seems plausible to the west and south.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 115,
+            "Original_Pointer": "0x31e26",
+            "Original_Dialog": "The slope is navigable to the east and south.{00}",
+            "Translated_Dialog": "The slope is navigable to the east and south.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 116,
+            "Original_Pointer": "0x31e54",
+            "Original_Dialog": "{F7}Amia saw her quarry beckoning to her in a condescending manner from the other side of the slope.{F7}As she started after him, something suddenly flew out from underfoot!{00}",
+            "Translated_Dialog": "{F7}Amia saw her quarry beckoning to her in a condescending manner from the other side of the slope.{F7}As she started after him, something suddenly flew out from underfoot!{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 117,
+            "Original_Pointer": "0x31efc",
+            "Original_Dialog": "The rugged terrain continues to the north and west.{00}",
+            "Translated_Dialog": "The rugged terrain continues to the north and west.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 118,
+            "Original_Pointer": "0x31f30",
+            "Original_Dialog": "{F7}Hack stood across the way, beckoning to Amia as if toying with her.{F7}When she approached him, tentacles sprang forth from countless openings in the surface.{00}",
+            "Translated_Dialog": "{F7}Hack stood across the way, beckoning to Amia as if toying with her.{F7}When she approached him, tentacles sprang forth from countless openings in the surface.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 119,
+            "Original_Pointer": "0x31fcd",
+            "Original_Dialog": "Cliff{00}",
+            "Translated_Dialog": "Cliff{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 120,
+            "Original_Pointer": "0x31fd3",
+            "Original_Dialog": "A road traces the cliff to the west, while the rocky area resumes to the north and east.{F7}To the south, a vast {EE}desert{EF} can be seen at the bottom of the cliff, from which the {EE}wind{EF} rises tempestuously.{00}",
+            "Translated_Dialog": "A road traces the cliff to the west, while the rocky area resumes to the north and east.{F7}To the south, a vast {EE}desert{EF} can be seen at the bottom of the cliff, from which the {EE}wind{EF} rises tempestuously.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 121,
+            "Original_Pointer": "0x3209d",
+            "Original_Dialog": "Cliff{00}",
+            "Translated_Dialog": "Cliff{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 122,
+            "Original_Pointer": "0x320a3",
+            "Original_Dialog": "The road follows the cliff longitudinally.{F7}More {EE}desert land{EF} can be seen at the {EE}base{EF} of the cliff. The {EE}wind{EF} is blowing.{00}",
+            "Translated_Dialog": "The road follows the cliff longitudinally.{F7}More {EE}desert land{EF} can be seen at the {EE}base{EF} of the cliff. The {EE}wind{EF} is blowing.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 123,
+            "Original_Pointer": "0x32120",
+            "Original_Dialog": "Vacant Land{00}",
+            "Translated_Dialog": "Vacant Land{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 124,
+            "Original_Pointer": "0x3212c",
+            "Original_Dialog": "At the end of the road... emptiness. An abandoned {EE}cabin{EF} lies to the north.{00}",
+            "Translated_Dialog": "At the end of the road... emptiness. An abandoned {EE}cabin{EF} lies to the north.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 125,
+            "Original_Pointer": "0x32179",
+            "Original_Dialog": "Cabin{00}",
+            "Translated_Dialog": "Cabin{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 126,
+            "Original_Pointer": "0x3217f",
+            "Original_Dialog": "This dwelling is deserted. The only point of access is the door{7C}{7C}on the south side.{00}",
+            "Translated_Dialog": "This dwelling is deserted. The only point of access is the door{7C}{7C}on the south side.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 127,
+            "Original_Pointer": "0x321d3",
+            "Original_Dialog": " A bundle of {EE}fabric{EF} hangs on the facing wall.{00}",
+            "Translated_Dialog": " A bundle of {EE}fabric{EF} hangs on the facing wall.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 128,
+            "Original_Pointer": "0x32203",
+            "Original_Dialog": "Sand{00}",
+            "Translated_Dialog": "Sand{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 129,
+            "Original_Pointer": "0x32208",
+            "Original_Dialog": "To the north, a mountain towers {7C}over this boundless expanse of sand dunes.{F7}A solitary rock formation can be seen to the west.{00}",
+            "Translated_Dialog": "To the north, a mountain towers {7C}over this boundless expanse of sand dunes.{F7}A solitary rock formation can be seen to the west.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 130,
+            "Original_Pointer": "0x32287",
+            "Original_Dialog": "Strange Stone{00}",
+            "Translated_Dialog": "Strange Stone{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 131,
+            "Original_Pointer": "0x32295",
+            "Original_Dialog": "An unusual boulder with a flat top stands here. A long, slender {EE}box{EF} has been placed behind it.{00}",
+            "Translated_Dialog": "An unusual boulder with a flat top stands here. A long, slender {EE}box{EF} has been placed behind it.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 132,
+            "Original_Pointer": "0x322f6",
+            "Original_Dialog": "Field of Stones{00}",
+            "Translated_Dialog": "Field of Stones{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 133,
+            "Original_Pointer": "0x32306",
+            "Original_Dialog": "Countless stones are mixed in with the sand, severely impeding mobility.{F7}On top of that, the area has been liberally sprinkled with {EE}bones{EF}. It is a creepy place indeed.{00}",
+            "Translated_Dialog": "Countless stones are mixed in with the sand, severely impeding mobility.{F7}On top of that, the area has been liberally sprinkled with {EE}bones{EF}. It is a creepy place indeed.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 134,
+            "Original_Pointer": "0x323b0",
+            "Original_Dialog": "Quicksand Dune{00}",
+            "Translated_Dialog": "Quicksand Dune{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 135,
+            "Original_Pointer": "0x323bf",
+            "Original_Dialog": "Superficially this appears to be a sand dune, yet its shape changes constantly.{F7}The surging grains billow like an ocean of {EE}sand{EF}{00}",
+            "Translated_Dialog": "Superficially this appears to be a sand dune, yet its shape changes constantly.{F7}The surging grains billow like an ocean of {EE}sand{EF}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 136,
+            "Original_Pointer": "0x32441",
+            "Original_Dialog": ", the waves flowing toward the east. Also visible is a {EE}hill{EF} to the south, covered in green.{00}",
+            "Translated_Dialog": ", the waves flowing toward the east. Also visible is a {EE}hill{EF} to the south, covered in green.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 137,
+            "Original_Pointer": "0x3249f",
+            "Original_Dialog": ". These treacherous conditions make traversal to the east impossible on foot.{F7}A {EE}hill{EF} to the south is similarly unreachable.{00}",
+            "Translated_Dialog": ". These treacherous conditions make traversal to the east impossible on foot.{F7}A {EE}hill{EF} to the south is similarly unreachable.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 138,
+            "Original_Pointer": "0x3251d",
+            "Original_Dialog": "Cactus Garden{00}",
+            "Translated_Dialog": "Cactus Garden{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 139,
+            "Original_Pointer": "0x3252b",
+            "Original_Dialog": "This locale is teeming with {EE}cacti{EF}.{F7}Long {EE}cactus needles{EF} make it risky to get too close to the prickly vegetation.{00}",
+            "Translated_Dialog": "This locale is teeming with {EE}cacti{EF}.{F7}Long {EE}cactus needles{EF} make it risky to get too close to the prickly vegetation.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 140,
+            "Original_Pointer": "0x325a0",
+            "Original_Dialog": "Quicksand Dune{00}",
+            "Translated_Dialog": "Quicksand Dune{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 141,
+            "Original_Pointer": "0x325af",
+            "Original_Dialog": "Boulders poke through the sea of quicksand in a manner reminiscent of icebergs.{F7}It is too dangerous to keep going eastward; the waves of sand are flowing to the south.{F7}Visually following the course of the quicksand leads to the sight of a {7C}{EE}humanoid shadow{EF}.{00}",
+            "Translated_Dialog": "Boulders poke through the sea of quicksand in a manner reminiscent of icebergs.{F7}It is too dangerous to keep going eastward; the waves of sand are flowing to the south.{F7}Visually following the course of the quicksand leads to the sight of a {7C}{EE}humanoid shadow{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 142,
+            "Original_Pointer": "0x326b2",
+            "Original_Dialog": "Quicksand Whirlpool{00}",
+            "Translated_Dialog": "Quicksand Whirlpool{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 143,
+            "Original_Pointer": "0x326c6",
+            "Original_Dialog": "Hack is here, standing stock still. Amia has finally cornered him!{F7}Behind him is an enormous {EE}quicksand whirlpool{EF}, its gaping maw resembling the den of an ant lion.{F7}Suddenly a crowd of {EE}Motavians{EF} appeared! Amia had gotten ambushed somehow and soon found herself driven to the edge of the vortex.{F7}{EE}Hack{EF} approaches, threateningly.{00}",
+            "Translated_Dialog": "Hack is here, standing stock still. Amia has finally cornered him!{F7}Behind him is an enormous {EE}quicksand whirlpool{EF}, its gaping maw resembling the den of an ant lion.{F7}Suddenly a crowd of {EE}Motavians{EF} appeared! Amia had gotten ambushed somehow and soon found herself driven to the edge of the vortex.{F7}{EE}Hack{EF} approaches, threateningly.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 144,
+            "Original_Pointer": "0x32812",
+            "Original_Dialog": "Directly behind Amia is a huge {EE}pit of quicksand{EF}.{F7}{EE}Hack{EF} is closing in on her as the {EE}Motavians{EF} stand at the periphery.{00}",
+            "Translated_Dialog": "Directly behind Amia is a huge {EE}pit of quicksand{EF}.{F7}{EE}Hack{EF} is closing in on her as the {EE}Motavians{EF} stand at the periphery.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 145,
+            "Original_Pointer": "0x3288c",
+            "Original_Dialog": "Within the Vortex{00}",
+            "Translated_Dialog": "Within the Vortex{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 146,
+            "Original_Pointer": "0x3289e",
+            "Original_Dialog": "...{7C}but lost her balance and fell into the whirlpool.{F7}{00}",
+            "Translated_Dialog": "...{7C}but lost her balance and fell into the whirlpool.{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 147,
+            "Original_Pointer": "0x328d5",
+            "Original_Dialog": "Amia is quickly being engulfed in sand.{F7}The {EE}Motavians{EF} are shouting unintelligibly while {EE}Hack{EF} kneels by the perimeter.{00}",
+            "Translated_Dialog": "Amia is quickly being engulfed in sand.{F7}The {EE}Motavians{EF} are shouting unintelligibly while {EE}Hack{EF} kneels by the perimeter.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 148,
+            "Original_Pointer": "0x3294f",
+            "Original_Dialog": "Luminous Cavern{00}",
+            "Translated_Dialog": "Luminous Cavern{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 149,
+            "Original_Pointer": "0x3295f",
+            "Original_Dialog": "Amia opened her eyes. She felt uninjured, but her body was caked with sand.{F7}She found herself in a cavernous tunnel stretching horizontally. A faint light was being emitted by moss growing on the stone surfaces.{00}",
+            "Translated_Dialog": "Amia opened her eyes. She felt uninjured, but her body was caked with sand.{F7}She found herself in a cavernous tunnel stretching horizontally. A faint light was being emitted by moss growing on the stone surfaces.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 150,
+            "Original_Pointer": "0x32a33",
+            "Original_Dialog": "To the east, the tunnel ventures further into the cave. The exit is to the west.{00}",
+            "Translated_Dialog": "To the east, the tunnel ventures further into the cave. The exit is to the west.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 151,
+            "Original_Pointer": "0x32a84",
+            "Original_Dialog": " {EE}Hack's{EF} prostrate body is bathed by the pale light.{00}",
+            "Translated_Dialog": " {EE}Hack's{EF} prostrate body is bathed by the pale light.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 152,
+            "Original_Pointer": "0x32aba",
+            "Original_Dialog": "Sand Barricade{00}",
+            "Translated_Dialog": "Sand Barricade{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 153,
+            "Original_Pointer": "0x32ac9",
+            "Original_Dialog": "The way is blocked by a pile of sand.{F7}A rustling sound can be heard periodically as additional granules fall from the {EE}ceiling{EF}.{00}",
+            "Translated_Dialog": "The way is blocked by a pile of sand.{F7}A rustling sound can be heard periodically as additional granules fall from the {EE}ceiling{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 154,
+            "Original_Pointer": "0x32b4a",
+            "Original_Dialog": "Swampland{00}",
+            "Translated_Dialog": "Swampland{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 155,
+            "Original_Pointer": "0x32b54",
+            "Original_Dialog": "This seems to be a wetland area. The ground is covered in ankle-deep mud.{F7}The air is saturated with fog, limiting visibility to less than one meter. The rocky formation to the east presents the {7C}entrance to a familiar cave.{F7}A rumbling sound can be heard in the distance.  Is it thunder? Or the roar of a biomonster...{00}",
+            "Translated_Dialog": "This seems to be a wetland area. The ground is covered in ankle-deep mud.{F7}The air is saturated with fog, limiting visibility to less than one meter. The rocky formation to the east presents the {7C}entrance to a familiar cave.{F7}A rumbling sound can be heard in the distance.  Is it thunder? Or the roar of a biomonster...{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 156,
+            "Original_Pointer": "0x32c92",
+            "Original_Dialog": " {EE}Hack{EF} follows reluctantly.{00}",
+            "Translated_Dialog": " {EE}Hack{EF} follows reluctantly.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 157,
+            "Original_Pointer": "0x32caf",
+            "Original_Dialog": "Swampland{00}",
+            "Translated_Dialog": "Swampland{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 158,
+            "Original_Pointer": "0x32cb9",
+            "Original_Dialog": "This place is overgrown with tall grasses.{F7}A section of the thicket has been matted down to form some sort of {EE}nest{EF}.{00}",
+            "Translated_Dialog": "This place is overgrown with tall grasses.{F7}A section of the thicket has been matted down to form some sort of {EE}nest{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 159,
+            "Original_Pointer": "0x32d2f",
+            "Original_Dialog": " {EE}Hack{EF} has something to add.{00}",
+            "Translated_Dialog": " {EE}Hack{EF} has something to add.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 160,
+            "Original_Pointer": "0x32d4d",
+            "Original_Dialog": "Lakeside{00}",
+            "Translated_Dialog": "Lakeside{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 161,
+            "Original_Pointer": "0x32d56",
+            "Original_Dialog": "A {EE}lake{EF} of the deepest black waits to the south.{F7}The area is mostly lifeless; not even aquatic plants can be found on the {EE}water's surface{EF}.{00}",
+            "Translated_Dialog": "A {EE}lake{EF} of the deepest black waits to the south.{F7}The area is mostly lifeless; not even aquatic plants can be found on the {EE}water's surface{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 162,
+            "Original_Pointer": "0x32de4",
+            "Original_Dialog": " Hack is perturbed...{F7}\"Where do you think you're going!?   That lake is bottomless!   Do you intend to drown us?\"{00}",
+            "Translated_Dialog": " Hack is perturbed...{F7}\"Where do you think you're going!?   That lake is bottomless!   Do you intend to drown us?\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 163,
+            "Original_Pointer": "0x32e56",
+            "Original_Dialog": "Bottomless Lake{00}",
+            "Translated_Dialog": "Bottomless Lake{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 164,
+            "Original_Pointer": "0x32e66",
+            "Original_Dialog": " Ah!{F7}Amia's foot slipped and she became submerged in the deep water. She struggled for as long as she could...{F7}{F7}{00}",
+            "Translated_Dialog": " Ah!{F7}Amia's foot slipped and she became submerged in the deep water. She struggled for as long as she could...{F7}{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 165,
+            "Original_Pointer": "0x32ed7",
+            "Original_Dialog": "Alone and unnoticed, Amia descended into the perfect solitude of the water's depths.{00}",
+            "Translated_Dialog": "Alone and unnoticed, Amia descended into the perfect solitude of the water's depths.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 166,
+            "Original_Pointer": "0x32f2c",
+            "Original_Dialog": "Amia could still hear Hack's desperate screams as she sank into the depths of the lake.{00}",
+            "Translated_Dialog": "Amia could still hear Hack's desperate screams as she sank into the depths of the lake.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 167,
+            "Original_Pointer": "0x32f84",
+            "Original_Dialog": "{F7}                                    {EE}Game Over{EF}{F7}{00}",
+            "Translated_Dialog": "{F7}                                    {EE}Game Over{EF}{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 168,
+            "Original_Pointer": "0x32fb6",
+            "Original_Dialog": "Swampland{00}",
+            "Translated_Dialog": "Swampland{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 169,
+            "Original_Pointer": "0x32fc0",
+            "Original_Dialog": "This place is littered with eggshells.{F7}There must be clouds overhead, for it has begun to {EE}rain{EF}. That doesn't seem to bother the {EE}corgen{EF} blocking the way, however.{00}",
+            "Translated_Dialog": "This place is littered with eggshells.{F7}There must be clouds overhead, for it has begun to {EE}rain{EF}. That doesn't seem to bother the {EE}corgen{EF} blocking the way, however.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 170,
+            "Original_Pointer": "0x33066",
+            "Original_Dialog": "The corgen is sleeping in the {EE}rain{EF}. It should be possible to slip by it to the north and east.{00}",
+            "Translated_Dialog": "The corgen is sleeping in the {EE}rain{EF}. It should be possible to slip by it to the north and east.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 171,
+            "Original_Pointer": "0x330c7",
+            "Original_Dialog": "{EE}Raindrops{EF} splatter against the remains of the corgen.{F7}Stepping over the corpse, it is possible to go north and east from here.{00}",
+            "Translated_Dialog": "{EE}Raindrops{EF} splatter against the remains of the corgen.{F7}Stepping over the corpse, it is possible to go north and east from here.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 172,
+            "Original_Pointer": "0x33148",
+            "Original_Dialog": " {EE}Hack{EF} is examining Amia.{00}",
+            "Translated_Dialog": " {EE}Hack{EF} is examining Amia.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 173,
+            "Original_Pointer": "0x33163",
+            "Original_Dialog": "{00}",
+            "Translated_Dialog": "{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 174,
+            "Original_Pointer": "0x33165",
+            "Original_Dialog": "Shrine Entrance{00}",
+            "Translated_Dialog": "Shrine Entrance{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 175,
+            "Original_Pointer": "0x33175",
+            "Original_Dialog": "This storm is becoming increasingly violent; the freezing rain relentlessly strikes exposed skin.{F7}The combination of coldness and fatigue has exhausted Amia.{F7}A bolt of lightning suddenly struck nearby, accompanied by the deafening roar of thunder.{F7}The surroundings became as bright as noonday, illuminating a {EE}shrine{EF} cleft from the rock to the west.{00}",
+            "Translated_Dialog": "This storm is becoming increasingly violent; the freezing rain relentlessly strikes exposed skin.{F7}The combination of coldness and fatigue has exhausted Amia.{F7}A bolt of lightning suddenly struck nearby, accompanied by the deafening roar of thunder.{F7}The surroundings became as bright as noonday, illuminating a {EE}shrine{EF} cleft from the rock to the west.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 176,
+            "Original_Pointer": "0x332d4",
+            "Original_Dialog": "The icy raindrops continue falling unabated. A {EE}shrine{EF} lies within the stone wall to the west.{00}",
+            "Translated_Dialog": "The icy raindrops continue falling unabated. A {EE}shrine{EF} lies within the stone wall to the west.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 177,
+            "Original_Pointer": "0x33334",
+            "Original_Dialog": " {EE}Hack{EF} is moving closer to Amia.{00}",
+            "Translated_Dialog": " {EE}Hack{EF} is moving closer to Amia.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 178,
+            "Original_Pointer": "0x33356",
+            "Original_Dialog": " {EE}Hack{EF} is right beside Amia.{00}",
+            "Translated_Dialog": " {EE}Hack{EF} is right beside Amia.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 179,
+            "Original_Pointer": "0x33374",
+            "Original_Dialog": "Shrine{00}",
+            "Translated_Dialog": "Shrine{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 180,
+            "Original_Pointer": "0x3337b",
+            "Original_Dialog": "The inside of the shrine is very narrow, but it is sufficient for weathering the storm.{F7}The ceiling is too low for one to stand upright.{00}",
+            "Translated_Dialog": "The inside of the shrine is very narrow, but it is sufficient for weathering the storm.{F7}The ceiling is too low for one to stand upright.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 181,
+            "Original_Pointer": "0x33404",
+            "Original_Dialog": "The interior is so confined that Hack and Amia are shoulder to shoulder.{00}",
+            "Translated_Dialog": "The interior is so confined that Hack and Amia are shoulder to shoulder.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 182,
+            "Original_Pointer": "0x3344d",
+            "Original_Dialog": "The village has fallen silent, its occupants not yet awake.{F7}The light coming from a house to the south floats dimly in a sea of mist.{00}",
+            "Translated_Dialog": "The village has fallen silent, its occupants not yet awake.{F7}The light coming from a house to the south floats dimly in a sea of mist.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 183,
+            "Original_Pointer": "0x334d3",
+            "Original_Dialog": "The liaison was surprised to see them.{F7}\"Are you on a date this early in the morning?   How about finding some time to hunt down   that Motavian criminal!\"{00}",
+            "Translated_Dialog": "The liaison was surprised to see them.{F7}\"Are you on a date this early in the morning?   How about finding some time to hunt down   that Motavian criminal!\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 184,
+            "Original_Pointer": "0x3356e",
+            "Original_Dialog": "There is no one nearby.{00}",
+            "Translated_Dialog": "There is no one nearby.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 185,
+            "Original_Pointer": "0x33586",
+            "Original_Dialog": "The dome farm is as quiet as a graveyard.{00}",
+            "Translated_Dialog": "The dome farm is as quiet as a graveyard.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 186,
+            "Original_Pointer": "0x335b0",
+            "Original_Dialog": "There is no movement inside.{00}",
+            "Translated_Dialog": "There is no movement inside.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 187,
+            "Original_Pointer": "0x335cd",
+            "Original_Dialog": "\"Thank you for bringing me this far, Amia.\"{F7}\"The fact is, I recently discovered the   keyword that I've been looking for.\"{F7}He skillfully hacked into the network as he spoke. Information about his parents soon appeared on the {EE}monitor{EF}.{00}",
+            "Translated_Dialog": "\"Thank you for bringing me this far, Amia.\"{F7}\"The fact is, I recently discovered the   keyword that I've been looking for.\"{F7}He skillfully hacked into the network as he spoke. Information about his parents soon appeared on the {EE}monitor{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 188,
+            "Original_Pointer": "0x336b9",
+            "Original_Dialog": "The {EE}monitor{EF} is displaying records concerning Hack's family. His hands are trembling slightly.{00}",
+            "Translated_Dialog": "The {EE}monitor{EF} is displaying records concerning Hack's family. His hands are trembling slightly.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 189,
+            "Original_Pointer": "0x33719",
+            "Original_Dialog": "Panel{00}",
+            "Translated_Dialog": "Panel{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 190,
+            "Original_Pointer": "0x3371f",
+            "Original_Dialog": "In addition to interfacing with the autopilot computer, this panel provides access to communication functions as well.{00}",
+            "Translated_Dialog": "In addition to interfacing with the autopilot computer, this panel provides access to communication functions as well.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 191,
+            "Original_Pointer": "0x33796",
+            "Original_Dialog": "{00}",
+            "Translated_Dialog": "{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 192,
+            "Original_Pointer": "0x33798",
+            "Original_Dialog": "{F7}A {EE}wanted poster{EF} for the leader of the thieves, alias \"Motavian Hack\", {7C}{7C}has been received from the Agents.{00}",
+            "Translated_Dialog": "{F7}A {EE}wanted poster{EF} for the leader of the thieves, alias \"Motavian Hack\", {7C}{7C}has been received from the Agents.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 193,
+            "Original_Pointer": "0x33806",
+            "Original_Dialog": "Glove Box{00}",
+            "Translated_Dialog": "Glove Box{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 194,
+            "Original_Pointer": "0x33810",
+            "Original_Dialog": "There is a {EE}knife{EF} inside.{00}",
+            "Translated_Dialog": "There is a {EE}knife{EF} inside.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 195,
+            "Original_Pointer": "0x3382b",
+            "Original_Dialog": "The glove box is empty.{00}",
+            "Translated_Dialog": "The glove box is empty.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 196,
+            "Original_Pointer": "0x33843",
+            "Original_Dialog": "Village{00}",
+            "Translated_Dialog": "Village{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 197,
+            "Original_Pointer": "0x3384b",
+            "Original_Dialog": "The area is dotted with tiny houses. Amia senses that this place is truly impoverished.{00}",
+            "Translated_Dialog": "The area is dotted with tiny houses. Amia senses that this place is truly impoverished.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 198,
+            "Original_Pointer": "0x338a3",
+            "Original_Dialog": "Dome Farm{00}",
+            "Translated_Dialog": "Dome Farm{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 199,
+            "Original_Pointer": "0x338ad",
+            "Original_Dialog": "Dome farms are the source of planet Motavia's food supply, the cultivation of which is directed by control signals sent from Mother Brain.{F7}It seems very modern, in striking contrast with the village.{00}",
+            "Translated_Dialog": "Dome farms are the source of planet Motavia's food supply, the cultivation of which is directed by control signals sent from Mother Brain.{F7}It seems very modern, in striking contrast with the village.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 200,
+            "Original_Pointer": "0x33975",
+            "Original_Dialog": "Mountains{00}",
+            "Translated_Dialog": "Mountains{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 201,
+            "Original_Pointer": "0x3397f",
+            "Original_Dialog": "A range of remarkably steep mountains, their bare rock faces casting eerie, deep black shadows.{F7}Not even a speck of green can be found within this sea of stone.{00}",
+            "Translated_Dialog": "A range of remarkably steep mountains, their bare rock faces casting eerie, deep black shadows.{F7}Not even a speck of green can be found within this sea of stone.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 202,
+            "Original_Pointer": "0x33a20",
+            "Original_Dialog": "Dome Farm{00}",
+            "Translated_Dialog": "Dome Farm{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 203,
+            "Original_Pointer": "0x33a2a",
+            "Original_Dialog": "The automatic door has suffered a malfunction. It remains in the open position, having failed safe rather than secure.{00}",
+            "Translated_Dialog": "The automatic door has suffered a malfunction. It remains in the open position, having failed safe rather than secure.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 204,
+            "Original_Pointer": "0x33aa1",
+            "Original_Dialog": "Mountains{00}",
+            "Translated_Dialog": "Mountains{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 205,
+            "Original_Pointer": "0x33aab",
+            "Original_Dialog": "The mountains rise ominously from the earth.{00}",
+            "Translated_Dialog": "The mountains rise ominously from the earth.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 206,
+            "Original_Pointer": "0x33ad8",
+            "Original_Dialog": "Storehouse{00}",
+            "Translated_Dialog": "Storehouse{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 207,
+            "Original_Pointer": "0x33ae3",
+            "Original_Dialog": "There doesn't appear to be anyone present.{00}",
+            "Translated_Dialog": "There doesn't appear to be anyone present.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 208,
+            "Original_Pointer": "0x33b0e",
+            "Original_Dialog": "It is too dangerous to enter right now: there are hostile Motavians inside.{00}",
+            "Translated_Dialog": "It is too dangerous to enter right now: there are hostile Motavians inside.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 209,
+            "Original_Pointer": "0x33b5a",
+            "Original_Dialog": "It is very quiet.{00}",
+            "Translated_Dialog": "It is very quiet.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 210,
+            "Original_Pointer": "0x33b6c",
+            "Original_Dialog": "Control Rm.{00}",
+            "Translated_Dialog": "Control Rm.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 211,
+            "Original_Pointer": "0x33b78",
+            "Original_Dialog": "Sounds of typing are coming from that direction.{00}",
+            "Translated_Dialog": "Sounds of typing are coming from that direction.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 212,
+            "Original_Pointer": "0x33ba9",
+            "Original_Dialog": "Crops{00}",
+            "Translated_Dialog": "Crops{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 213,
+            "Original_Pointer": "0x33baf",
+            "Original_Dialog": "They have begun to rot due to mismanagement. Apparently the villagers haven't been working here recently.{00}",
+            "Translated_Dialog": "They have begun to rot due to mismanagement. Apparently the villagers haven't been working here recently.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 214,
+            "Original_Pointer": "0x33c19",
+            "Original_Dialog": "Hack{00}",
+            "Translated_Dialog": "Hack{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 215,
+            "Original_Pointer": "0x33c1e",
+            "Original_Dialog": "He stares at Amia, his infra-red glass eyes focused intently on her from within his hood.{00}",
+            "Translated_Dialog": "He stares at Amia, his infra-red glass eyes focused intently on her from within his hood.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 216,
+            "Original_Pointer": "0x33c78",
+            "Original_Dialog": "Computer{00}",
+            "Translated_Dialog": "Computer{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 217,
+            "Original_Pointer": "0x33c81",
+            "Original_Dialog": "The circuit for the switch has been severed. Hack must have cut it before running away. What was he trying to do?{00}",
+            "Translated_Dialog": "The circuit for the switch has been severed. Hack must have cut it before running away. What was he trying to do?{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 218,
+            "Original_Pointer": "0x33cf3",
+            "Original_Dialog": "Man{00}",
+            "Translated_Dialog": "Man{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 219,
+            "Original_Pointer": "0x33cf7",
+            "Original_Dialog": "\"I haven't seen you around here before.   Perhaps you have some business in town?\" he asked while looking her over.{00}",
+            "Translated_Dialog": "\"I haven't seen you around here before.   Perhaps you have some business in town?\" he asked while looking her over.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 220,
+            "Original_Pointer": "0x33d6b",
+            "Original_Dialog": "\"I'm expecting results,\" he says curtly before returning to his beverage.{00}",
+            "Translated_Dialog": "\"I'm expecting results,\" he says curtly before returning to his beverage.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 221,
+            "Original_Pointer": "0x33db5",
+            "Original_Dialog": "Villagers{00}",
+            "Translated_Dialog": "Villagers{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 222,
+            "Original_Pointer": "0x33dbf",
+            "Original_Dialog": "They seem to be what one would call {7C}{7C}'peasants'.{F7}Noticing that he was being examined, a {EE}man{EF} quit talking and turned to look at Amia. Behind him, a {EE}middle-aged woman{EF} followed suit.{00}",
+            "Translated_Dialog": "They seem to be what one would call {7C}{7C}'peasants'.{F7}Noticing that he was being examined, a {EE}man{EF} quit talking and turned to look at Amia. Behind him, a {EE}middle-aged woman{EF} followed suit.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 223,
+            "Original_Pointer": "0x33e78",
+            "Original_Dialog": "The villagers are staring at Amia.{00}",
+            "Translated_Dialog": "The villagers are staring at Amia.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 224,
+            "Original_Pointer": "0x33e9b",
+            "Original_Dialog": "\"E{7C}{7C}{01}ver since those Motavians started intruding   we've been too frightened to even go near   the work site.\"{F7}\"Each day seems to last forever...\"{00}",
+            "Translated_Dialog": "\"E{7C}{7C}{01}ver since those Motavians started intruding   we've been too frightened to even go near   the work site.\"{F7}\"Each day seems to last forever...\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 225,
+            "Original_Pointer": "0x33f2e",
+            "Original_Dialog": "Woman{00}",
+            "Translated_Dialog": "Woman{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 226,
+            "Original_Pointer": "0x33f34",
+            "Original_Dialog": "\"My husband must go back to the farm soon   or {7C}our family won't be able to eat.\"{F7}\"Please do whatever it takes!\" she said to Amia.{00}",
+            "Translated_Dialog": "\"My husband must go back to the farm soon   or {7C}our family won't be able to eat.\"{F7}\"Please do whatever it takes!\" she said to Amia.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 227,
+            "Original_Pointer": "0x33fb7",
+            "Original_Dialog": "Footprints{00}",
+            "Translated_Dialog": "Footprints{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 228,
+            "Original_Pointer": "0x33fc2",
+            "Original_Dialog": "The footprints lead to a heretofore unseen gap in the rocks, revealing a narrow path heading north.{00}",
+            "Translated_Dialog": "The footprints lead to a heretofore unseen gap in the rocks, revealing a narrow path heading north.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 229,
+            "Original_Pointer": "0x34026",
+            "Original_Dialog": "Shadow{00}",
+            "Translated_Dialog": "Shadow{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 230,
+            "Original_Pointer": "0x3402d",
+            "Original_Dialog": "I can't tell what it is from here.{00}",
+            "Translated_Dialog": "I can't tell what it is from here.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 231,
+            "Original_Pointer": "0x34050",
+            "Original_Dialog": "Moss{00}",
+            "Translated_Dialog": "Moss{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 232,
+            "Original_Pointer": "0x34055",
+            "Original_Dialog": "Part of the moss growth has been scraped off, as if something had rubbed against the rocks. The trail of damaged moss leads to the east.{00}",
+            "Translated_Dialog": "Part of the moss growth has been scraped off, as if something had rubbed against the rocks. The trail of damaged moss leads to the east.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 233,
+            "Original_Pointer": "0x340de",
+            "Original_Dialog": "Nest{00}",
+            "Translated_Dialog": "Nest{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 234,
+            "Original_Pointer": "0x340e3",
+            "Original_Dialog": "It's really big...{00}",
+            "Translated_Dialog": "It's really big...{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 235,
+            "Original_Pointer": "0x340f6",
+            "Original_Dialog": "{F7}I can't see inside {7C}{7C}-{7C}{7C} a {EE}baby crow{EF} is in the way.{00}",
+            "Translated_Dialog": "{F7}I can't see inside {7C}{7C}-{7C}{7C} a {EE}baby crow{EF} is in the way.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 236,
+            "Original_Pointer": "0x3412d",
+            "Original_Dialog": "{F7}There is an {EE}infra-red scope{EF} lying inside.{00}",
+            "Translated_Dialog": "{F7}There is an {EE}infra-red scope{EF} lying inside.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 237,
+            "Original_Pointer": "0x3415a",
+            "Original_Dialog": "Rock Walls{00}",
+            "Translated_Dialog": "Rock Walls{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 238,
+            "Original_Pointer": "0x34165",
+            "Original_Dialog": "The stone has been scarred by pickaxes. Perhaps the Motavians cleared this path.{00}",
+            "Translated_Dialog": "The stone has been scarred by pickaxes. Perhaps the Motavians cleared this path.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 239,
+            "Original_Pointer": "0x341b6",
+            "Original_Dialog": "Object{00}",
+            "Translated_Dialog": "Object{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 240,
+            "Original_Pointer": "0x341bd",
+            "Original_Dialog": "Tiger Paw{00}",
+            "Translated_Dialog": "Tiger Paw{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 241,
+            "Original_Pointer": "0x341c7",
+            "Original_Dialog": "It's a huge {EE}tiger paw{EF}, a trap someone has set to capture monsters.{F7}If a person were to get caught in one of these they would be completely helpless.{00}",
+            "Translated_Dialog": "It's a huge {EE}tiger paw{EF}, a trap someone has set to capture monsters.{F7}If a person were to get caught in one of these they would be completely helpless.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 242,
+            "Original_Pointer": "0x3425e",
+            "Original_Dialog": "Knothole{00}",
+            "Translated_Dialog": "Knothole{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 243,
+            "Original_Pointer": "0x34267",
+            "Original_Dialog": "Peeking through the knothole, Amia beheld a room full of Motavians. It would probably be best not to enter.{00}",
+            "Translated_Dialog": "Peeking through the knothole, Amia beheld a room full of Motavians. It would probably be best not to enter.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 244,
+            "Original_Pointer": "0x342d3",
+            "Original_Dialog": "Table{00}",
+            "Translated_Dialog": "Table{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 245,
+            "Original_Pointer": "0x342d9",
+            "Original_Dialog": "There is some graffiti carved here:  \"Gebling and Apple, sitting in a tree.\"{00}",
+            "Translated_Dialog": "There is some graffiti carved here:  \"Gebling and Apple, sitting in a tree.\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 246,
+            "Original_Pointer": "0x34326",
+            "Original_Dialog": "Boxes{00}",
+            "Translated_Dialog": "Boxes{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 247,
+            "Original_Pointer": "0x3432c",
+            "Original_Dialog": "They're all filled with worthless odds and ends.  Mixed in with the junk is an antique {EE}boomerang{EF}.{00}",
+            "Translated_Dialog": "They're all filled with worthless odds and ends.  Mixed in with the junk is an antique {EE}boomerang{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 248,
+            "Original_Pointer": "0x34390",
+            "Original_Dialog": "His manner clearly reflects scorn for Amia's abilities, since she was so easily defeated at the dome farm.{00}",
+            "Translated_Dialog": "His manner clearly reflects scorn for Amia's abilities, since she was so easily defeated at the dome farm.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 249,
+            "Original_Pointer": "0x343fb",
+            "Original_Dialog": "Desert{00}",
+            "Translated_Dialog": "Desert{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 250,
+            "Original_Pointer": "0x34402",
+            "Original_Dialog": "The sands seem to go on forever...{F7}If stared at long enough, the desert evokes feelings of despair.{00}",
+            "Translated_Dialog": "The sands seem to go on forever...{F7}If stared at long enough, the desert evokes feelings of despair.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 251,
+            "Original_Pointer": "0x34466",
+            "Original_Dialog": "Wind{00}",
+            "Translated_Dialog": "Wind{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 252,
+            "Original_Pointer": "0x3446b",
+            "Original_Dialog": "The intense wind is behaving violently. At times it seems powerful enough to dash Amia against the rocks.{00}",
+            "Translated_Dialog": "The intense wind is behaving violently. At times it seems powerful enough to dash Amia against the rocks.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 253,
+            "Original_Pointer": "0x344d5",
+            "Original_Dialog": "Cliff Base{00}",
+            "Translated_Dialog": "Cliff Base{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 254,
+            "Original_Pointer": "0x344e0",
+            "Original_Dialog": "There he is at the bottom of the cliff!{F7}Hack looked up at Amia and waved broadly as he ran to the east.{00}",
+            "Translated_Dialog": "There he is at the bottom of the cliff!{F7}Hack looked up at Amia and waved broadly as he ran to the east.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 255,
+            "Original_Pointer": "0x34548",
+            "Original_Dialog": "Nothing but sand {7C}-{7C} Hack can no longer be seen.{00}",
+            "Translated_Dialog": "Nothing but sand {7C}-{7C} Hack can no longer be seen.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 256,
+            "Original_Pointer": "0x34579",
+            "Original_Dialog": "A pleasant breeze surrounds Amia. She has the urge to fly a paper airplane.{00}",
+            "Translated_Dialog": "A pleasant breeze surrounds Amia. She has the urge to fly a paper airplane.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 257,
+            "Original_Pointer": "0x345c5",
+            "Original_Dialog": "Cabin{00}",
+            "Translated_Dialog": "Cabin{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 258,
+            "Original_Pointer": "0x345cb",
+            "Original_Dialog": "A structure of considerable size, it has sustained much damage.{00}",
+            "Translated_Dialog": "A structure of considerable size, it has sustained much damage.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 259,
+            "Original_Pointer": "0x3460b",
+            "Original_Dialog": "Fabric{00}",
+            "Translated_Dialog": "Fabric{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 260,
+            "Original_Pointer": "0x34612",
+            "Original_Dialog": "The material is joined to a wooden stick. It spreads out to form a {EE}hang glider{EF}.{00}",
+            "Translated_Dialog": "The material is joined to a wooden stick. It spreads out to form a {EE}hang glider{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 261,
+            "Original_Pointer": "0x34664",
+            "Original_Dialog": "Stone{00}",
+            "Translated_Dialog": "Stone{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 262,
+            "Original_Pointer": "0x3466a",
+            "Original_Dialog": "Could this be an ancient relic...?  No time for sight seeing right now, however.{00}",
+            "Translated_Dialog": "Could this be an ancient relic...?  No time for sight seeing right now, however.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 263,
+            "Original_Pointer": "0x346bb",
+            "Original_Dialog": "Box{00}",
+            "Translated_Dialog": "Box{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 264,
+            "Original_Pointer": "0x346bf",
+            "Original_Dialog": "It's locked.{00}",
+            "Translated_Dialog": "It's locked.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 265,
+            "Original_Pointer": "0x346cc",
+            "Original_Dialog": "{EE}Sand skis{EF} were inside.{00}",
+            "Translated_Dialog": "{EE}Sand skis{EF} were inside.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 266,
+            "Original_Pointer": "0x346e5",
+            "Original_Dialog": "The box is empty.{00}",
+            "Translated_Dialog": "The box is empty.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 267,
+            "Original_Pointer": "0x346f7",
+            "Original_Dialog": "Bones{00}",
+            "Translated_Dialog": "Bones{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 268,
+            "Original_Pointer": "0x346fd",
+            "Original_Dialog": "The skeletal remains of a hand appear to be holding onto something...{F7}It's a {EE}silver key{EF}!{00}",
+            "Translated_Dialog": "The skeletal remains of a hand appear to be holding onto something...{F7}It's a {EE}silver key{EF}!{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 269,
+            "Original_Pointer": "0x34758",
+            "Original_Dialog": "Sand{00}",
+            "Translated_Dialog": "Sand{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 270,
+            "Original_Pointer": "0x3475d",
+            "Original_Dialog": "The fine grains give it a consistency much like that of powdered sugar.{00}",
+            "Translated_Dialog": "The fine grains give it a consistency much like that of powdered sugar.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 271,
+            "Original_Pointer": "0x347a5",
+            "Original_Dialog": "Verdant Hill{00}",
+            "Translated_Dialog": "Verdant Hill{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 272,
+            "Original_Pointer": "0x347b2",
+            "Original_Dialog": "The hill appears to be abundant with vegetation, but it is too far away to tell for sure.{00}",
+            "Translated_Dialog": "The hill appears to be abundant with vegetation, but it is too far away to tell for sure.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 273,
+            "Original_Pointer": "0x3480c",
+            "Original_Dialog": "Cacti{00}",
+            "Translated_Dialog": "Cacti{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 274,
+            "Original_Pointer": "0x34812",
+            "Original_Dialog": "These juicy plants look delicious.{00}",
+            "Translated_Dialog": "These juicy plants look delicious.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 275,
+            "Original_Pointer": "0x34835",
+            "Original_Dialog": "Needles{00}",
+            "Translated_Dialog": "Needles{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 276,
+            "Original_Pointer": "0x3483d",
+            "Original_Dialog": "I'd just get poked in the eye trying that.{00}",
+            "Translated_Dialog": "I'd just get poked in the eye trying that.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 277,
+            "Original_Pointer": "0x34868",
+            "Original_Dialog": "Shadow{00}",
+            "Translated_Dialog": "Shadow{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 278,
+            "Original_Pointer": "0x3486f",
+            "Original_Dialog": "It is too far away to see clearly, but the shape of that silhouette is definitely Hack's.{00}",
+            "Translated_Dialog": "It is too far away to see clearly, but the shape of that silhouette is definitely Hack's.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 279,
+            "Original_Pointer": "0x348c9",
+            "Original_Dialog": "Whirlpool{00}",
+            "Translated_Dialog": "Whirlpool{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 280,
+            "Original_Pointer": "0x348d3",
+            "Original_Dialog": "Sand is rapidly being sucked into the whirlpool's mortar-shaped center.{00}",
+            "Translated_Dialog": "Sand is rapidly being sucked into the whirlpool's mortar-shaped center.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 281,
+            "Original_Pointer": "0x3491b",
+            "Original_Dialog": "Motavians{00}",
+            "Translated_Dialog": "Motavians{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 282,
+            "Original_Pointer": "0x34925",
+            "Original_Dialog": "There are thirty of them altogether. Their numbers are overwhelming!{00}",
+            "Translated_Dialog": "There are thirty of them altogether. Their numbers are overwhelming!{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 283,
+            "Original_Pointer": "0x3496a",
+            "Original_Dialog": "He is trying to catch Amia.{00}",
+            "Translated_Dialog": "He is trying to catch Amia.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 284,
+            "Original_Pointer": "0x34986",
+            "Original_Dialog": "Motavians{00}",
+            "Translated_Dialog": "Motavians{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 285,
+            "Original_Pointer": "0x34990",
+            "Original_Dialog": "Standing in a circle around the whirlpool, the Motavians are in an uproar.{00}",
+            "Translated_Dialog": "Standing in a circle around the whirlpool, the Motavians are in an uproar.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 286,
+            "Original_Pointer": "0x349db",
+            "Original_Dialog": "\"Grab on to me!\" {7C}Hack yelled as he extended his hand. This man, who by all accounts should be her {7C}enemy, was now trying to save her.{F7}In a daze, she clung to his arm. A moment later he tumbled forward and they found themselves being dragged together into the pit... {F7}{F7}{00}",
+            "Translated_Dialog": "\"Grab on to me!\" {7C}Hack yelled as he extended his hand. This man, who by all accounts should be her {7C}enemy, was now trying to save her.{F7}In a daze, she clung to his arm. A moment later he tumbled forward and they found themselves being dragged together into the pit... {F7}{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 287,
+            "Original_Pointer": "0x34ae9",
+            "Original_Dialog": "He is completely unconscious; he probably hit something as he fell.{F7}On the other hand, Amia did not get injured at all. Hack must have shielded her with his body.{00}",
+            "Translated_Dialog": "He is completely unconscious; he probably hit something as he fell.{F7}On the other hand, Amia did not get injured at all. Hack must have shielded her with his body.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 288,
+            "Original_Pointer": "0x34b8c",
+            "Original_Dialog": "Ceiling{00}",
+            "Translated_Dialog": "Ceiling{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 289,
+            "Original_Pointer": "0x34b94",
+            "Original_Dialog": "Grains of sand filter through gaps in the rock. Apparently Amia and Hack went through the same process.{00}",
+            "Translated_Dialog": "Grains of sand filter through gaps in the rock. Apparently Amia and Hack went through the same process.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 290,
+            "Original_Pointer": "0x34bfc",
+            "Original_Dialog": "\"Well, which way?   You don't even know where we are and yet   you managed to arrest me? What a joke.\"{00}",
+            "Translated_Dialog": "\"Well, which way?   You don't even know where we are and yet   you managed to arrest me? What a joke.\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 291,
+            "Original_Pointer": "0x34c63",
+            "Original_Dialog": "\"I'm still not going to show you around,  even if you keep looking at me like that!\"{00}",
+            "Translated_Dialog": "\"I'm still not going to show you around,  even if you keep looking at me like that!\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 292,
+            "Original_Pointer": "0x34cb8",
+            "Original_Dialog": "Nest{00}",
+            "Translated_Dialog": "Nest{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 293,
+            "Original_Pointer": "0x34cbd",
+            "Original_Dialog": "A large {EE}egg{EF} has been laid here.{00}",
+            "Translated_Dialog": "A large {EE}egg{EF} has been laid here.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 294,
+            "Original_Pointer": "0x34cdf",
+            "Original_Dialog": "\"To die by the wayside or be eaten by a monster:    Which would you prefer?\"{F7}\"Either way you'll never see your home again.   That's what you get for doing something as   unladylike as bounty hunting.\"{00}",
+            "Translated_Dialog": "\"To die by the wayside or be eaten by a monster:    Which would you prefer?\"{F7}\"Either way you'll never see your home again.   That's what you get for doing something as   unladylike as bounty hunting.\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 295,
+            "Original_Pointer": "0x34da8",
+            "Original_Dialog": "\"It's stupid to hang around here for too long.   That monster will eventually return to its nest,\" Hack said with a serious look about him.{00}",
+            "Translated_Dialog": "\"It's stupid to hang around here for too long.   That monster will eventually return to its nest,\" Hack said with a serious look about him.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 296,
+            "Original_Pointer": "0x34e34",
+            "Original_Dialog": "Lake{00}",
+            "Translated_Dialog": "Lake{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 297,
+            "Original_Pointer": "0x34e39",
+            "Original_Dialog": "As she gazed at the lake, Amia felt drawn towards the depths. It doesn't seem safe.{00}",
+            "Translated_Dialog": "As she gazed at the lake, Amia felt drawn towards the depths. It doesn't seem safe.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 298,
+            "Original_Pointer": "0x34e8d",
+            "Original_Dialog": "Surface{00}",
+            "Translated_Dialog": "Surface{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 299,
+            "Original_Pointer": "0x34e95",
+            "Original_Dialog": "There is a strangeness about it.{00}",
+            "Translated_Dialog": "There is a strangeness about it.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 300,
+            "Original_Pointer": "0x34eb6",
+            "Original_Dialog": "Rain{00}",
+            "Translated_Dialog": "Rain{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 301,
+            "Original_Pointer": "0x34ebb",
+            "Original_Dialog": "It seems to be gradually coming down harder.{00}",
+            "Translated_Dialog": "It seems to be gradually coming down harder.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 302,
+            "Original_Pointer": "0x34ee8",
+            "Original_Dialog": "\"Are we going to wander around in this pouring   rain forever?! Let's get it over with already!\" He practically spat the words.{00}",
+            "Translated_Dialog": "\"Are we going to wander around in this pouring   rain forever?! Let's get it over with already!\" He practically spat the words.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 303,
+            "Original_Pointer": "0x34f68",
+            "Original_Dialog": "\"What's your next move!?   I {7C}give up. Motavian girls, human girls...   I {7C}have no idea what they're thinking.\"{00}",
+            "Translated_Dialog": "\"What's your next move!?   I {7C}give up. Motavian girls, human girls...   I {7C}have no idea what they're thinking.\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 304,
+            "Original_Pointer": "0x34fd8",
+            "Original_Dialog": "Shrine{00}",
+            "Translated_Dialog": "Shrine{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 305,
+            "Original_Pointer": "0x34fdf",
+            "Original_Dialog": "It is little more than a small cave, but it should at least provide shelter from the elements.{00}",
+            "Translated_Dialog": "It is little more than a small cave, but it should at least provide shelter from the elements.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 306,
+            "Original_Pointer": "0x3503e",
+            "Original_Dialog": "Hack points to the {EE}shrine{EF} and yells:{F7}\"Come on! Hurry up and go inside!   If you keep hesitating in places   like this we'll both end up dead!\"{00}",
+            "Translated_Dialog": "Hack points to the {EE}shrine{EF} and yells:{F7}\"Come on! Hurry up and go inside!   If you keep hesitating in places   like this we'll both end up dead!\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 307,
+            "Original_Pointer": "0x350cf",
+            "Original_Dialog": "Rain{00}",
+            "Translated_Dialog": "Rain{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 308,
+            "Original_Pointer": "0x350d4",
+            "Original_Dialog": "It's like a waterfall out there...  This storm is not going to let up any time soon.{00}",
+            "Translated_Dialog": "It's like a waterfall out there...  This storm is not going to let up any time soon.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 309,
+            "Original_Pointer": "0x35129",
+            "Original_Dialog": "\"You need to warm up,\" said Hack as he detached his cloak and placed it over Amia's shivering body.{F7}With the covering removed, he was unmasked for the first time, revealing not a Motavian but a strapping young human!{F7}{F7}An old {EE}photograph{EF} had fallen to the floor when Hack took off {7C}his cloak.{00}",
+            "Translated_Dialog": "\"You need to warm up,\" said Hack as he detached his cloak and placed it over Amia's shivering body.{F7}With the covering removed, he was unmasked for the first time, revealing not a Motavian but a strapping young human!{F7}{F7}An old {EE}photograph{EF} had fallen to the floor when Hack took off {7C}his cloak.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 310,
+            "Original_Pointer": "0x3524e",
+            "Original_Dialog": "He seems concerned as he watches over Amia.  There is loneliness within his eyes.{00}",
+            "Translated_Dialog": "He seems concerned as he watches over Amia.  There is loneliness within his eyes.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 311,
+            "Original_Pointer": "0x352a0",
+            "Original_Dialog": "Hack gazes at Amia.{00}",
+            "Translated_Dialog": "Hack gazes at Amia.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 312,
+            "Original_Pointer": "0x352b4",
+            "Original_Dialog": "As if he could read her thoughts, Hack used his strength to move the boulder.{00}",
+            "Translated_Dialog": "As if he could read her thoughts, Hack used his strength to move the boulder.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 313,
+            "Original_Pointer": "0x35302",
+            "Original_Dialog": "Ah...!{F7}He embraced Amia, gently pressing his lips to hers.{00}",
+            "Translated_Dialog": "Ah...!{F7}He embraced Amia, gently pressing his lips to hers.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 314,
+            "Original_Pointer": "0x3533d",
+            "Original_Dialog": "Crevice{00}",
+            "Translated_Dialog": "Crevice{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 315,
+            "Original_Pointer": "0x35345",
+            "Original_Dialog": "As they peered between the stones, the village of Bee Rock appeared beneath the haze of the morning mists.{F7}Without realizing it, the pair had nearly returned to town. It was practically right beneath them!{00}",
+            "Translated_Dialog": "As they peered between the stones, the village of Bee Rock appeared beneath the haze of the morning mists.{F7}Without realizing it, the pair had nearly returned to town. It was practically right beneath them!{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 316,
+            "Original_Pointer": "0x35413",
+            "Original_Dialog": "{F7}But unfortunately there was a large {EE}boulder{EF} blocking the way back.{00}",
+            "Translated_Dialog": "{F7}But unfortunately there was a large {EE}boulder{EF} blocking the way back.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 317,
+            "Original_Pointer": "0x35459",
+            "Original_Dialog": "Boulder{00}",
+            "Translated_Dialog": "Boulder{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 318,
+            "Original_Pointer": "0x35461",
+            "Original_Dialog": "Amia can't push it out of the way:  it's too heavy.{00}",
+            "Translated_Dialog": "Amia can't push it out of the way:  it's too heavy.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 319,
+            "Original_Pointer": "0x35495",
+            "Original_Dialog": "Monitor{00}",
+            "Translated_Dialog": "Monitor{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 320,
+            "Original_Pointer": "0x3549d",
+            "Original_Dialog": "The files indicate that Hack's parents died in a car wreck in Bee Rock.{F7}The date of the accident was 1265 A.W., the year he was born. He was found and adopted by Motavians soon afterward.{F7}\"They died...\" He turned to Amia as he spoke, tears forming in his eyes.{F7}\"But... I'm glad.   This means that I wasn't abandoned.   I'm not bitter anymore.\"{F7}\"A few of my Motavian friends enticed   me to steal and do other bad things.   I've made some mistakes...\"{F7}\"Well, you can take me to your boss now.   I am ready to atone for my crimes.\"{F7}But Hack had already suffered enough.  Amia unfastened the handcuffs.{F7}Besides, if Hack didn't return home the Motavians might attack the village. This would preclude that possibility.{F7}\"Goodbye Hack...   I hope we can meet again someday.   Maybe then our feelings for each other...\"{F7}{F7}Amia returned to her jet buggy and sent a report to the Agents: \"Capture of Motavian Hack unsuccessful.\"{F7}That incident marked the point where Amia began referring to herself as a counter-hunter.{F7}It was also the only job thus far where her bounty had gotten away.{F7}{F7}                                       The End{F7}                             Written by:                                      {F0}{8A}{D6}{F0}{93}{87}{F0}{82}{E8}{F0}{82}{E5}{F0}{82}{A4}{F0}{8E}q                                      {F0}{8B}e{F0}{93}{87}{F0}{8C}b{F0}{8E}O{F7}                          Copyright 1990 SEGA{F7}{00}",
+            "Translated_Dialog": "The files indicate that Hack's parents died in a car wreck in Bee Rock.{F7}The date of the accident was 1265 A.W., the year he was born. He was found and adopted by Motavians soon afterward.{F7}\"They died...\" He turned to Amia as he spoke, tears forming in his eyes.{F7}\"But... I'm glad.   This means that I wasn't abandoned.   I'm not bitter anymore.\"{F7}\"A few of my Motavian friends enticed   me to steal and do other bad things.   I've made some mistakes...\"{F7}\"Well, you can take me to your boss now.   I am ready to atone for my crimes.\"{F7}But Hack had already suffered enough.  Amia unfastened the handcuffs.{F7}Besides, if Hack didn't return home the Motavians might attack the village. This would preclude that possibility.{F7}\"Goodbye Hack...   I hope we can meet again someday.   Maybe then our feelings for each other...\"{F7}{F7}Amia returned to her jet buggy and sent a report to the Agents: \"Capture of Motavian Hack unsuccessful.\"{F7}That incident marked the point where Amia began referring to herself as a counter-hunter.{F7}It was also the only job thus far where her bounty had gotten away.{F7}{F7}                                       The End{F7}                             Written by:                                      {F0}{8A}{D6}{F0}{93}{87}{F0}{82}{E8}{F0}{82}{E5}{F0}{82}{A4}{F0}{8E}q                                      {F0}{8B}e{F0}{93}{87}{F0}{8C}b{F0}{8E}O{F7}                          Copyright 1990 SEGA{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 321,
+            "Original_Pointer": "0x359c3",
+            "Original_Dialog": "Knife{00}",
+            "Translated_Dialog": "Knife{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 322,
+            "Original_Pointer": "0x359c9",
+            "Original_Dialog": "A small weapon made of titanium alloy.{00}",
+            "Translated_Dialog": "A small weapon made of titanium alloy.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 323,
+            "Original_Pointer": "0x359f0",
+            "Original_Dialog": "Amia slashed at her opponent with the knife.{00}",
+            "Translated_Dialog": "Amia slashed at her opponent with the knife.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 324,
+            "Original_Pointer": "0x35a1d",
+            "Original_Dialog": "Amia readied her knife...{F7}{00}",
+            "Translated_Dialog": "Amia readied her knife...{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 325,
+            "Original_Pointer": "0x35a38",
+            "Original_Dialog": "Amia raised the knife overhead and stabbed...{00}",
+            "Translated_Dialog": "Amia raised the knife overhead and stabbed...{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 326,
+            "Original_Pointer": "0x35a66",
+            "Original_Dialog": "{F7}...{7C}but Hack nimbly evaded it.{00}",
+            "Translated_Dialog": "{F7}...{7C}but Hack nimbly evaded it.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 327,
+            "Original_Pointer": "0x35a86",
+            "Original_Dialog": "{F7}\"Give it up little girl! There's no way you foolish   humans can catch me!\" Hack proclaimed boldly before disappearing to the south.{F7}He sure speaks clearly for a Motavian...  ...{7C}almost like a man.{00}",
+            "Translated_Dialog": "{F7}\"Give it up little girl! There's no way you foolish   humans can catch me!\" Hack proclaimed boldly before disappearing to the south.{F7}He sure speaks clearly for a Motavian...  ...{7C}almost like a man.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 328,
+            "Original_Pointer": "0x35b4d",
+            "Original_Dialog": "Amia cut off part of a cactus and ate it.  The succulent juices moistened her throat.{00}",
+            "Translated_Dialog": "Amia cut off part of a cactus and ate it.  The succulent juices moistened her throat.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 329,
+            "Original_Pointer": "0x35ba3",
+            "Original_Dialog": "Boomerang{00}",
+            "Translated_Dialog": "Boomerang{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 330,
+            "Original_Pointer": "0x35bad",
+            "Original_Dialog": "A simple boomerang shaped like an acute angle. The surface has been adorned by engraving.{00}",
+            "Translated_Dialog": "A simple boomerang shaped like an acute angle. The surface has been adorned by engraving.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 331,
+            "Original_Pointer": "0x35c07",
+            "Original_Dialog": "Amia threw the boomerang.{00}",
+            "Translated_Dialog": "Amia threw the boomerang.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 332,
+            "Original_Pointer": "0x35c21",
+            "Original_Dialog": "Amia threw the boomerang...{00}",
+            "Translated_Dialog": "Amia threw the boomerang...{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 333,
+            "Original_Pointer": "0x35c3d",
+            "Original_Dialog": "The worm sensed the disturbance in the air and immediately withdrew its tentacles, only to reveal them once more after the danger had passed.{F7}The boomerang doesn't seem very effective in this situation.{00}",
+            "Translated_Dialog": "The worm sensed the disturbance in the air and immediately withdrew its tentacles, only to reveal them once more after the danger had passed.{F7}The boomerang doesn't seem very effective in this situation.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 334,
+            "Original_Pointer": "0x35d08",
+            "Original_Dialog": "Pole{00}",
+            "Translated_Dialog": "Pole{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 335,
+            "Original_Pointer": "0x35d0d",
+            "Original_Dialog": "This is nothing more than a tree limb with a piece of red cloth attached to the pointed end.{00}",
+            "Translated_Dialog": "This is nothing more than a tree limb with a piece of red cloth attached to the pointed end.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 336,
+            "Original_Pointer": "0x35d6a",
+            "Original_Dialog": "A {EE}pole{EF} stands here, a warning flag affixed to it.{00}",
+            "Translated_Dialog": "A {EE}pole{EF} stands here, a warning flag affixed to it.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 337,
+            "Original_Pointer": "0x35d9e",
+            "Original_Dialog": "Amia jabbed at the enemy with the wooden pole, but it didn't make a very effective weapon.{00}",
+            "Translated_Dialog": "Amia jabbed at the enemy with the wooden pole, but it didn't make a very effective weapon.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 338,
+            "Original_Pointer": "0x35df9",
+            "Original_Dialog": "Amia poked it with the pole...{F7}Crash!  The trap is now sprung.{00}",
+            "Translated_Dialog": "Amia poked it with the pole...{F7}Crash!  The trap is now sprung.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 339,
+            "Original_Pointer": "0x35e38",
+            "Original_Dialog": "Poster{00}",
+            "Translated_Dialog": "Poster{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 340,
+            "Original_Pointer": "0x35e3f",
+            "Original_Dialog": "Displayed on the bulletin is the silhouette of a tall, thin Motavian, his face obscured by a cloak. \"Motavian Hack\" is printed beneath it.{00}",
+            "Translated_Dialog": "Displayed on the bulletin is the silhouette of a tall, thin Motavian, his face obscured by a cloak. \"Motavian Hack\" is printed beneath it.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 341,
+            "Original_Pointer": "0x35eca",
+            "Original_Dialog": "After taking the poster he began to speak:{F7}\"I see... so you're Amia?   I am in contact with the Agents.\"{F7}\"Here are some handcuffs; {7C}you'll need these   to bring your target back alive.\"{F7}\"Well, good luck.\"  Amia received {EE}handcuffs{EF}.{00}",
+            "Translated_Dialog": "After taking the poster he began to speak:{F7}\"I see... so you're Amia?   I am in contact with the Agents.\"{F7}\"Here are some handcuffs; {7C}you'll need these   to bring your target back alive.\"{F7}\"Well, good luck.\"  Amia received {EE}handcuffs{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 342,
+            "Original_Pointer": "0x35fb3",
+            "Original_Dialog": "Mushroom{00}",
+            "Translated_Dialog": "Mushroom{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 343,
+            "Original_Pointer": "0x35fbc",
+            "Original_Dialog": "Looks edible.{00}",
+            "Translated_Dialog": "Looks edible.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 344,
+            "Original_Pointer": "0x35fca",
+            "Original_Dialog": "Amia's health was restored by the mushroom.{00}",
+            "Translated_Dialog": "Amia's health was restored by the mushroom.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 345,
+            "Original_Pointer": "0x35ff6",
+            "Original_Dialog": "A {EE}mushroom{EF} has sprung up from the earth.{00}",
+            "Translated_Dialog": "A {EE}mushroom{EF} has sprung up from the earth.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 346,
+            "Original_Pointer": "0x36021",
+            "Original_Dialog": "Scope{00}",
+            "Translated_Dialog": "Scope{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 347,
+            "Original_Pointer": "0x36027",
+            "Original_Dialog": "This device allows the wearer to see clearly even in total darkness.{00}",
+            "Translated_Dialog": "This device allows the wearer to see clearly even in total darkness.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 348,
+            "Original_Pointer": "0x3606c",
+            "Original_Dialog": "There is an {EE}infra-red scope{EF} inside the nest.{00}",
+            "Translated_Dialog": "There is an {EE}infra-red scope{EF} inside the nest.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 349,
+            "Original_Pointer": "0x3609b",
+            "Original_Dialog": "Handcuffs{00}",
+            "Translated_Dialog": "Handcuffs{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 350,
+            "Original_Pointer": "0x360a5",
+            "Original_Dialog": "These manacles comprise a new style of handcuffs not connected by a chain.{F7}When they exceed a predefined range, a signal activates a mechanism causing temporary paralysis in the detainee's body.{F7}They are very convenient, even though the suspect can move about freely while being escorted.{00}",
+            "Translated_Dialog": "These manacles comprise a new style of handcuffs not connected by a chain.{F7}When they exceed a predefined range, a signal activates a mechanism causing temporary paralysis in the detainee's body.{F7}They are very convenient, even though the suspect can move about freely while being escorted.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 351,
+            "Original_Pointer": "0x361c6",
+            "Original_Dialog": "The handcuffs cannot be discarded.{00}",
+            "Translated_Dialog": "The handcuffs cannot be discarded.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 352,
+            "Original_Pointer": "0x361e9",
+            "Original_Dialog": "Amia took out her handcuffs...{F7}{00}",
+            "Translated_Dialog": "Amia took out her handcuffs...{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 353,
+            "Original_Pointer": "0x36209",
+            "Original_Dialog": "Just then, the rest of the Motavians surged into the room!{F7}Before she had a chance to confront them, Amia was struck on the back of the head and rendered unconscious.{F7}{F7}{F7}Upon awakening, she found the area deserted.{00}",
+            "Translated_Dialog": "Just then, the rest of the Motavians surged into the room!{F7}Before she had a chance to confront them, Amia was struck on the back of the head and rendered unconscious.{F7}{F7}{F7}Upon awakening, she found the area deserted.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 354,
+            "Original_Pointer": "0x362df",
+            "Original_Dialog": "Amia took out her handcuffs...{00}",
+            "Translated_Dialog": "Amia took out her handcuffs...{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 355,
+            "Original_Pointer": "0x362fe",
+            "Original_Dialog": "{F7}...{7C}but Hack merely backpedaled out of the way.{00}",
+            "Translated_Dialog": "{F7}...{7C}but Hack merely backpedaled out of the way.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 356,
+            "Original_Pointer": "0x3632f",
+            "Original_Dialog": "Hack opened his eyes the moment Amia handcuffed him. He glared at her when he noticed the manacle on his wrist.{F7}\"How could you do that to me!?   Humans are so heartless!\"{F7}\"You really think you can safely take me back   to the village?! Geez, you're fearless...\"{00}",
+            "Translated_Dialog": "Hack opened his eyes the moment Amia handcuffed him. He glared at her when he noticed the manacle on his wrist.{F7}\"How could you do that to me!?   Humans are so heartless!\"{F7}\"You really think you can safely take me back   to the village?! Geez, you're fearless...\"{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 357,
+            "Original_Pointer": "0x36435",
+            "Original_Dialog": "Food{00}",
+            "Translated_Dialog": "Food{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 358,
+            "Original_Pointer": "0x3643a",
+            "Original_Dialog": "A plate of {EE}food{EF} rests on the table.{00}",
+            "Translated_Dialog": "A plate of {EE}food{EF} rests on the table.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 359,
+            "Original_Pointer": "0x36460",
+            "Original_Dialog": " \"This Motavian Cactus dish is...\"{F7}\"...{7C}(munch)  (munch)  delicious!\"  Amia experienced a burst of energy!{00}",
+            "Translated_Dialog": " \"This Motavian Cactus dish is...\"{F7}\"...{7C}(munch)  (munch)  delicious!\"  Amia experienced a burst of energy!{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 360,
+            "Original_Pointer": "0x364cb",
+            "Original_Dialog": "Hang Glider{00}",
+            "Translated_Dialog": "Hang Glider{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 361,
+            "Original_Pointer": "0x364d7",
+            "Original_Dialog": "It is functionally similar to the wings of a bat. Amia can soar through the air with this.{00}",
+            "Translated_Dialog": "It is functionally similar to the wings of a bat. Amia can soar through the air with this.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 362,
+            "Original_Pointer": "0x36532",
+            "Original_Dialog": "Amia took to the sky with the hang glider...{F7}...{7C}but the winds were wild and she lost control. After spinning around haphazardly for a while she crash landed somewhere unexpected.{F7}{00}",
+            "Translated_Dialog": "Amia took to the sky with the hang glider...{F7}...{7C}but the winds were wild and she lost control. After spinning around haphazardly for a while she crash landed somewhere unexpected.{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 363,
+            "Original_Pointer": "0x365e7",
+            "Original_Dialog": "Amia took to the sky with the hang glider...{F7}She leisurely circled the{7C}{7C}area while descending, landing in the desert before long.{F7}{00}",
+            "Translated_Dialog": "Amia took to the sky with the hang glider...{F7}She leisurely circled the{7C}{7C}area while descending, landing in the desert before long.{F7}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 364,
+            "Original_Pointer": "0x3666a",
+            "Original_Dialog": "Sand Skis{00}",
+            "Translated_Dialog": "Sand Skis{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 365,
+            "Original_Pointer": "0x36674",
+            "Original_Dialog": "A set of long, thin, fiberglass surfaces designed to be worn on the feet.{F7}When donned, such gear allows the wearer to glide across troublesome sands that would otherwise be impassable.{00}",
+            "Translated_Dialog": "A set of long, thin, fiberglass surfaces designed to be worn on the feet.{F7}When donned, such gear allows the wearer to glide across troublesome sands that would otherwise be impassable.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 366,
+            "Original_Pointer": "0x3672d",
+            "Original_Dialog": "Amia put on the skis.{00}",
+            "Translated_Dialog": "Amia put on the skis.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 367,
+            "Original_Pointer": "0x36743",
+            "Original_Dialog": "Silver Key{00}",
+            "Translated_Dialog": "Silver Key{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 368,
+            "Original_Pointer": "0x3674e",
+            "Original_Dialog": "It doesn't look that old.{00}",
+            "Translated_Dialog": "It doesn't look that old.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 369,
+            "Original_Pointer": "0x36768",
+            "Original_Dialog": "It fits the keyhole exactly. The top of the box detaches to reveal a pair of {EE}sand skis{EF}.{00}",
+            "Translated_Dialog": "It fits the keyhole exactly. The top of the box detaches to reveal a pair of {EE}sand skis{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 370,
+            "Original_Pointer": "0x367c2",
+            "Original_Dialog": "Egg{00}",
+            "Translated_Dialog": "Egg{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 371,
+            "Original_Pointer": "0x367c6",
+            "Original_Dialog": "It's pretty big, with a sickly color to its shell.{00}",
+            "Translated_Dialog": "It's pretty big, with a sickly color to its shell.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 372,
+            "Original_Pointer": "0x367f9",
+            "Original_Dialog": "Photograph{00}",
+            "Translated_Dialog": "Photograph{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 373,
+            "Original_Pointer": "0x36804",
+            "Original_Dialog": "This tattered photo depicts a human couple. He must have been carrying it for a long time.{00}",
+            "Translated_Dialog": "This tattered photo depicts a human couple. He must have been carrying it for a long time.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 374,
+            "Original_Pointer": "0x3685f",
+            "Original_Dialog": "Amia returned the picture to Hack. He gazed at it for a while and then began to speak bitterly:{F7}\"Those are my real parents.   They disappeared when I was an infant.\"{F7}\"Heartless.{7C}{7C}{7C}Humans are all so heartless. Nothing   like Motavians {7C}{7C}-{7C}{7C} they took me in and raised me   with kindness after my family abandoned me.\"{F7}Amia could sympathize with his loneliness; she had also lost her parents at a young age.{F7}Hack must have learned to stifle the yearning for his mother and father through his hatred of humanity.{F7}Amia gently consoled him and then explained, \"But I still have to bring you in. It's my job.\" He smiled weakly.{F7}{F7}They eventually noticed the faint light that had started streaming through a {EE}crevice{EF} in the wall. Dawn had crept up on them.{00}",
+            "Translated_Dialog": "Amia returned the picture to Hack. He gazed at it for a while and then began to speak bitterly:{F7}\"Those are my real parents.   They disappeared when I was an infant.\"{F7}\"Heartless.{7C}{7C}{7C}Humans are all so heartless. Nothing   like Motavians {7C}{7C}-{7C}{7C} they took me in and raised me   with kindness after my family abandoned me.\"{F7}Amia could sympathize with his loneliness; she had also lost her parents at a young age.{F7}Hack must have learned to stifle the yearning for his mother and father through his hatred of humanity.{F7}Amia gently consoled him and then explained, \"But I still have to bring you in. It's my job.\" He smiled weakly.{F7}{F7}They eventually noticed the faint light that had started streaming through a {EE}crevice{EF} in the wall. Dawn had crept up on them.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 375,
+            "Original_Pointer": "0x36b4d",
+            "Original_Dialog": "Bat{00}",
+            "Translated_Dialog": "Bat{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 376,
+            "Original_Pointer": "0x36b51",
+            "Original_Dialog": "The true form of the shadow is that of a {EE}man-eating bat{EF} living in the mountainside.{00}",
+            "Translated_Dialog": "The true form of the shadow is that of a {EE}man-eating bat{EF} living in the mountainside.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 377,
+            "Original_Pointer": "0x36ba7",
+            "Original_Dialog": "A small biomonster resembling a common bat, but with a head that looks disturbingly human.{00}",
+            "Translated_Dialog": "A small biomonster resembling a common bat, but with a head that looks disturbingly human.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 378,
+            "Original_Pointer": "0x36c02",
+            "Original_Dialog": "Lifting {7C}its voice in a {7C}piercing {7C}shriek, the monster escaped to the other side of the rock wall.{00}",
+            "Translated_Dialog": "Lifting {7C}its voice in a {7C}piercing {7C}shriek, the monster escaped to the other side of the rock wall.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 379,
+            "Original_Pointer": "0x36c65",
+            "Original_Dialog": "Crow Chick{00}",
+            "Translated_Dialog": "Crow Chick{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 380,
+            "Original_Pointer": "0x36c70",
+            "Original_Dialog": "A {EE}crow chick{EF} cries out in a berserk rage.{00}",
+            "Translated_Dialog": "A {EE}crow chick{EF} cries out in a berserk rage.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 381,
+            "Original_Pointer": "0x36c9c",
+            "Original_Dialog": "A monstrous bird covered in mottled feathers.{00}",
+            "Translated_Dialog": "A monstrous bird covered in mottled feathers.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 382,
+            "Original_Pointer": "0x36cca",
+            "Original_Dialog": "The creature let out a heartbreaking wail, as if pleading for its parents to save its life, before tumbling out of the nest to its death.{00}",
+            "Translated_Dialog": "The creature let out a heartbreaking wail, as if pleading for its parents to save its life, before tumbling out of the nest to its death.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 383,
+            "Original_Pointer": "0x36d54",
+            "Original_Dialog": "Rock Bees{00}",
+            "Translated_Dialog": "Rock Bees{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 384,
+            "Original_Pointer": "0x36d5e",
+            "Original_Dialog": "A swarm of {EE}rock bees{EF} has appeared.{00}",
+            "Translated_Dialog": "A swarm of {EE}rock bees{EF} has appeared.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 385,
+            "Original_Pointer": "0x36d83",
+            "Original_Dialog": "Many rock bees inhabit this part of the mountain. They attack with a large, serrated stinger.{00}",
+            "Translated_Dialog": "Many rock bees inhabit this part of the mountain. They attack with a large, serrated stinger.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 386,
+            "Original_Pointer": "0x36de1",
+            "Original_Dialog": "{F7}The insects painfully expel grains of stone as they flutter away into the sky.{00}",
+            "Translated_Dialog": "{F7}The insects painfully expel grains of stone as they flutter away into the sky.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 387,
+            "Original_Pointer": "0x36e31",
+            "Original_Dialog": "{F7}When she glanced in his direction, Amia found that Hack had disappeared.{00}",
+            "Translated_Dialog": "{F7}When she glanced in his direction, Amia found that Hack had disappeared.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 388,
+            "Original_Pointer": "0x36e7b",
+            "Original_Dialog": "Hole Worm{00}",
+            "Translated_Dialog": "Hole Worm{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 389,
+            "Original_Pointer": "0x36e85",
+            "Original_Dialog": "A {EE}hole worm{EF} has emerged from the ground.{00}",
+            "Translated_Dialog": "A {EE}hole worm{EF} has emerged from the ground.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 390,
+            "Original_Pointer": "0x36eb0",
+            "Original_Dialog": "{01}Covered in acidic slime, the creature's tentacles {01}protrude from pits in the stone stratum.{00}",
+            "Translated_Dialog": "{01}Covered in acidic slime, the creature's tentacles {01}protrude from pits in the stone stratum.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 391,
+            "Original_Pointer": "0x36f0d",
+            "Original_Dialog": "{F7}Having taken a beating, the hole worm soon withdrew its appendages back into the earth. ...{7C}But for how long?{00}",
+            "Translated_Dialog": "{F7}Having taken a beating, the hole worm soon withdrew its appendages back into the earth. ...{7C}But for how long?{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 392,
+            "Original_Pointer": "0x36f7c",
+            "Original_Dialog": "Corgen{00}",
+            "Translated_Dialog": "Corgen{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 393,
+            "Original_Pointer": "0x36f83",
+            "Original_Dialog": "In an attempt to intimidate, a {EE}corgen{EF} is making a ghastly sound by vibrating its slack throat.{00}",
+            "Translated_Dialog": "In an attempt to intimidate, a {EE}corgen{EF} is making a ghastly sound by vibrating its slack throat.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 394,
+            "Original_Pointer": "0x36fe4",
+            "Original_Dialog": "This type of frog is a step up in size from a licker biomonster. It lacks a navel.{00}",
+            "Translated_Dialog": "This type of frog is a step up in size from a licker biomonster. It lacks a navel.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 395,
+            "Original_Pointer": "0x37037",
+            "Original_Dialog": "The corgen spewed venom as it writhed, its death arriving shortly thereafter.{00}",
+            "Translated_Dialog": "The corgen spewed venom as it writhed, its death arriving shortly thereafter.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 396,
+            "Original_Pointer": "0x37085",
+            "Original_Dialog": "The egg seems to be a delicacy for the corgen. After swallowing it in one gulp, the frog closed its eyes and soon became motionless.{F7}Evidently they prefer to sleep after a meal. There is little chance of it waking anytime soon.{00}",
+            "Translated_Dialog": "The egg seems to be a delicacy for the corgen. After swallowing it in one gulp, the frog closed its eyes and soon became motionless.{F7}Evidently they prefer to sleep after a meal. There is little chance of it waking anytime soon.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 397,
+            "Original_Pointer": "0x37169",
+            "Original_Dialog": "Amia took the {EE}{00}",
+            "Translated_Dialog": "Amia took the {EE}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 398,
+            "Original_Pointer": "0x37179",
+            "Original_Dialog": "{EF}. {00}",
+            "Translated_Dialog": "{EF}. {00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 399,
+            "Original_Pointer": "0x3717d",
+            "Original_Dialog": "Amia dropped the {EE}{00}",
+            "Translated_Dialog": "Amia dropped the {EE}{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        },
+        {
+            "index": 400,
+            "Original_Pointer": "0x37190",
+            "Original_Dialog": "{EF}.{00}",
+            "Translated_Dialog": "{EF}.{00}",
+            "Comments": "",
+            "Already_Translated": "no"
+        }
+    ]
+}
